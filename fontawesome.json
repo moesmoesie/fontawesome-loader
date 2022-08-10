@@ -1,0 +1,7414 @@
+[
+  {
+    "name": "0 solid",
+    "value": "0@solid"
+  },
+  {
+    "name": "1 solid",
+    "value": "1@solid"
+  },
+  {
+    "name": "2 solid",
+    "value": "2@solid"
+  },
+  {
+    "name": "3 solid",
+    "value": "3@solid"
+  },
+  {
+    "name": "4 solid",
+    "value": "4@solid"
+  },
+  {
+    "name": "5 solid",
+    "value": "5@solid"
+  },
+  {
+    "name": "6 solid",
+    "value": "6@solid"
+  },
+  {
+    "name": "7 solid",
+    "value": "7@solid"
+  },
+  {
+    "name": "8 solid",
+    "value": "8@solid"
+  },
+  {
+    "name": "9 solid",
+    "value": "9@solid"
+  },
+  {
+    "name": "a solid",
+    "value": "a@solid"
+  },
+  {
+    "name": "address-book solid",
+    "value": "address-book@solid"
+  },
+  {
+    "name": "address-card solid",
+    "value": "address-card@solid"
+  },
+  {
+    "name": "align-center solid",
+    "value": "align-center@solid"
+  },
+  {
+    "name": "align-justify solid",
+    "value": "align-justify@solid"
+  },
+  {
+    "name": "align-left solid",
+    "value": "align-left@solid"
+  },
+  {
+    "name": "align-right solid",
+    "value": "align-right@solid"
+  },
+  {
+    "name": "anchor solid",
+    "value": "anchor@solid"
+  },
+  {
+    "name": "anchor-circle-check solid",
+    "value": "anchor-circle-check@solid"
+  },
+  {
+    "name": "anchor-circle-exclamation solid",
+    "value": "anchor-circle-exclamation@solid"
+  },
+  {
+    "name": "anchor-circle-xmark solid",
+    "value": "anchor-circle-xmark@solid"
+  },
+  {
+    "name": "anchor-lock solid",
+    "value": "anchor-lock@solid"
+  },
+  {
+    "name": "angle-down solid",
+    "value": "angle-down@solid"
+  },
+  {
+    "name": "angle-left solid",
+    "value": "angle-left@solid"
+  },
+  {
+    "name": "angle-right solid",
+    "value": "angle-right@solid"
+  },
+  {
+    "name": "angle-up solid",
+    "value": "angle-up@solid"
+  },
+  {
+    "name": "angles-down solid",
+    "value": "angles-down@solid"
+  },
+  {
+    "name": "angles-left solid",
+    "value": "angles-left@solid"
+  },
+  {
+    "name": "angles-right solid",
+    "value": "angles-right@solid"
+  },
+  {
+    "name": "angles-up solid",
+    "value": "angles-up@solid"
+  },
+  {
+    "name": "ankh solid",
+    "value": "ankh@solid"
+  },
+  {
+    "name": "apple-whole solid",
+    "value": "apple-whole@solid"
+  },
+  {
+    "name": "archway solid",
+    "value": "archway@solid"
+  },
+  {
+    "name": "arrow-down solid",
+    "value": "arrow-down@solid"
+  },
+  {
+    "name": "arrow-down-1-9 solid",
+    "value": "arrow-down-1-9@solid"
+  },
+  {
+    "name": "arrow-down-9-1 solid",
+    "value": "arrow-down-9-1@solid"
+  },
+  {
+    "name": "arrow-down-a-z solid",
+    "value": "arrow-down-a-z@solid"
+  },
+  {
+    "name": "arrow-down-long solid",
+    "value": "arrow-down-long@solid"
+  },
+  {
+    "name": "arrow-down-short-wide solid",
+    "value": "arrow-down-short-wide@solid"
+  },
+  {
+    "name": "arrow-down-up-across-line solid",
+    "value": "arrow-down-up-across-line@solid"
+  },
+  {
+    "name": "arrow-down-up-lock solid",
+    "value": "arrow-down-up-lock@solid"
+  },
+  {
+    "name": "arrow-down-wide-short solid",
+    "value": "arrow-down-wide-short@solid"
+  },
+  {
+    "name": "arrow-down-z-a solid",
+    "value": "arrow-down-z-a@solid"
+  },
+  {
+    "name": "arrow-left solid",
+    "value": "arrow-left@solid"
+  },
+  {
+    "name": "arrow-left-long solid",
+    "value": "arrow-left-long@solid"
+  },
+  {
+    "name": "arrow-pointer solid",
+    "value": "arrow-pointer@solid"
+  },
+  {
+    "name": "arrow-right solid",
+    "value": "arrow-right@solid"
+  },
+  {
+    "name": "arrow-right-arrow-left solid",
+    "value": "arrow-right-arrow-left@solid"
+  },
+  {
+    "name": "arrow-right-from-bracket solid",
+    "value": "arrow-right-from-bracket@solid"
+  },
+  {
+    "name": "arrow-right-long solid",
+    "value": "arrow-right-long@solid"
+  },
+  {
+    "name": "arrow-right-to-bracket solid",
+    "value": "arrow-right-to-bracket@solid"
+  },
+  {
+    "name": "arrow-right-to-city solid",
+    "value": "arrow-right-to-city@solid"
+  },
+  {
+    "name": "arrow-rotate-left solid",
+    "value": "arrow-rotate-left@solid"
+  },
+  {
+    "name": "arrow-rotate-right solid",
+    "value": "arrow-rotate-right@solid"
+  },
+  {
+    "name": "arrow-trend-down solid",
+    "value": "arrow-trend-down@solid"
+  },
+  {
+    "name": "arrow-trend-up solid",
+    "value": "arrow-trend-up@solid"
+  },
+  {
+    "name": "arrow-turn-down solid",
+    "value": "arrow-turn-down@solid"
+  },
+  {
+    "name": "arrow-turn-up solid",
+    "value": "arrow-turn-up@solid"
+  },
+  {
+    "name": "arrow-up solid",
+    "value": "arrow-up@solid"
+  },
+  {
+    "name": "arrow-up-1-9 solid",
+    "value": "arrow-up-1-9@solid"
+  },
+  {
+    "name": "arrow-up-9-1 solid",
+    "value": "arrow-up-9-1@solid"
+  },
+  {
+    "name": "arrow-up-a-z solid",
+    "value": "arrow-up-a-z@solid"
+  },
+  {
+    "name": "arrow-up-from-bracket solid",
+    "value": "arrow-up-from-bracket@solid"
+  },
+  {
+    "name": "arrow-up-from-ground-water solid",
+    "value": "arrow-up-from-ground-water@solid"
+  },
+  {
+    "name": "arrow-up-from-water-pump solid",
+    "value": "arrow-up-from-water-pump@solid"
+  },
+  {
+    "name": "arrow-up-long solid",
+    "value": "arrow-up-long@solid"
+  },
+  {
+    "name": "arrow-up-right-dots solid",
+    "value": "arrow-up-right-dots@solid"
+  },
+  {
+    "name": "arrow-up-right-from-square solid",
+    "value": "arrow-up-right-from-square@solid"
+  },
+  {
+    "name": "arrow-up-short-wide solid",
+    "value": "arrow-up-short-wide@solid"
+  },
+  {
+    "name": "arrow-up-wide-short solid",
+    "value": "arrow-up-wide-short@solid"
+  },
+  {
+    "name": "arrow-up-z-a solid",
+    "value": "arrow-up-z-a@solid"
+  },
+  {
+    "name": "arrows-down-to-line solid",
+    "value": "arrows-down-to-line@solid"
+  },
+  {
+    "name": "arrows-down-to-people solid",
+    "value": "arrows-down-to-people@solid"
+  },
+  {
+    "name": "arrows-left-right solid",
+    "value": "arrows-left-right@solid"
+  },
+  {
+    "name": "arrows-left-right-to-line solid",
+    "value": "arrows-left-right-to-line@solid"
+  },
+  {
+    "name": "arrows-rotate solid",
+    "value": "arrows-rotate@solid"
+  },
+  {
+    "name": "arrows-spin solid",
+    "value": "arrows-spin@solid"
+  },
+  {
+    "name": "arrows-split-up-and-left solid",
+    "value": "arrows-split-up-and-left@solid"
+  },
+  {
+    "name": "arrows-to-circle solid",
+    "value": "arrows-to-circle@solid"
+  },
+  {
+    "name": "arrows-to-dot solid",
+    "value": "arrows-to-dot@solid"
+  },
+  {
+    "name": "arrows-to-eye solid",
+    "value": "arrows-to-eye@solid"
+  },
+  {
+    "name": "arrows-turn-right solid",
+    "value": "arrows-turn-right@solid"
+  },
+  {
+    "name": "arrows-turn-to-dots solid",
+    "value": "arrows-turn-to-dots@solid"
+  },
+  {
+    "name": "arrows-up-down solid",
+    "value": "arrows-up-down@solid"
+  },
+  {
+    "name": "arrows-up-down-left-right solid",
+    "value": "arrows-up-down-left-right@solid"
+  },
+  {
+    "name": "arrows-up-to-line solid",
+    "value": "arrows-up-to-line@solid"
+  },
+  {
+    "name": "asterisk solid",
+    "value": "asterisk@solid"
+  },
+  {
+    "name": "at solid",
+    "value": "at@solid"
+  },
+  {
+    "name": "atom solid",
+    "value": "atom@solid"
+  },
+  {
+    "name": "audio-description solid",
+    "value": "audio-description@solid"
+  },
+  {
+    "name": "austral-sign solid",
+    "value": "austral-sign@solid"
+  },
+  {
+    "name": "award solid",
+    "value": "award@solid"
+  },
+  {
+    "name": "b solid",
+    "value": "b@solid"
+  },
+  {
+    "name": "baby solid",
+    "value": "baby@solid"
+  },
+  {
+    "name": "baby-carriage solid",
+    "value": "baby-carriage@solid"
+  },
+  {
+    "name": "backward solid",
+    "value": "backward@solid"
+  },
+  {
+    "name": "backward-fast solid",
+    "value": "backward-fast@solid"
+  },
+  {
+    "name": "backward-step solid",
+    "value": "backward-step@solid"
+  },
+  {
+    "name": "bacon solid",
+    "value": "bacon@solid"
+  },
+  {
+    "name": "bacteria solid",
+    "value": "bacteria@solid"
+  },
+  {
+    "name": "bacterium solid",
+    "value": "bacterium@solid"
+  },
+  {
+    "name": "bag-shopping solid",
+    "value": "bag-shopping@solid"
+  },
+  {
+    "name": "bahai solid",
+    "value": "bahai@solid"
+  },
+  {
+    "name": "baht-sign solid",
+    "value": "baht-sign@solid"
+  },
+  {
+    "name": "ban solid",
+    "value": "ban@solid"
+  },
+  {
+    "name": "ban-smoking solid",
+    "value": "ban-smoking@solid"
+  },
+  {
+    "name": "bandage solid",
+    "value": "bandage@solid"
+  },
+  {
+    "name": "barcode solid",
+    "value": "barcode@solid"
+  },
+  {
+    "name": "bars solid",
+    "value": "bars@solid"
+  },
+  {
+    "name": "bars-progress solid",
+    "value": "bars-progress@solid"
+  },
+  {
+    "name": "bars-staggered solid",
+    "value": "bars-staggered@solid"
+  },
+  {
+    "name": "baseball solid",
+    "value": "baseball@solid"
+  },
+  {
+    "name": "baseball-bat-ball solid",
+    "value": "baseball-bat-ball@solid"
+  },
+  {
+    "name": "basket-shopping solid",
+    "value": "basket-shopping@solid"
+  },
+  {
+    "name": "basketball solid",
+    "value": "basketball@solid"
+  },
+  {
+    "name": "bath solid",
+    "value": "bath@solid"
+  },
+  {
+    "name": "battery-empty solid",
+    "value": "battery-empty@solid"
+  },
+  {
+    "name": "battery-full solid",
+    "value": "battery-full@solid"
+  },
+  {
+    "name": "battery-half solid",
+    "value": "battery-half@solid"
+  },
+  {
+    "name": "battery-quarter solid",
+    "value": "battery-quarter@solid"
+  },
+  {
+    "name": "battery-three-quarters solid",
+    "value": "battery-three-quarters@solid"
+  },
+  {
+    "name": "bed solid",
+    "value": "bed@solid"
+  },
+  {
+    "name": "bed-pulse solid",
+    "value": "bed-pulse@solid"
+  },
+  {
+    "name": "beer-mug-empty solid",
+    "value": "beer-mug-empty@solid"
+  },
+  {
+    "name": "bell solid",
+    "value": "bell@solid"
+  },
+  {
+    "name": "bell-concierge solid",
+    "value": "bell-concierge@solid"
+  },
+  {
+    "name": "bell-slash solid",
+    "value": "bell-slash@solid"
+  },
+  {
+    "name": "bezier-curve solid",
+    "value": "bezier-curve@solid"
+  },
+  {
+    "name": "bicycle solid",
+    "value": "bicycle@solid"
+  },
+  {
+    "name": "binoculars solid",
+    "value": "binoculars@solid"
+  },
+  {
+    "name": "biohazard solid",
+    "value": "biohazard@solid"
+  },
+  {
+    "name": "bitcoin-sign solid",
+    "value": "bitcoin-sign@solid"
+  },
+  {
+    "name": "blender solid",
+    "value": "blender@solid"
+  },
+  {
+    "name": "blender-phone solid",
+    "value": "blender-phone@solid"
+  },
+  {
+    "name": "blog solid",
+    "value": "blog@solid"
+  },
+  {
+    "name": "bold solid",
+    "value": "bold@solid"
+  },
+  {
+    "name": "bolt solid",
+    "value": "bolt@solid"
+  },
+  {
+    "name": "bolt-lightning solid",
+    "value": "bolt-lightning@solid"
+  },
+  {
+    "name": "bomb solid",
+    "value": "bomb@solid"
+  },
+  {
+    "name": "bone solid",
+    "value": "bone@solid"
+  },
+  {
+    "name": "bong solid",
+    "value": "bong@solid"
+  },
+  {
+    "name": "book solid",
+    "value": "book@solid"
+  },
+  {
+    "name": "book-atlas solid",
+    "value": "book-atlas@solid"
+  },
+  {
+    "name": "book-bible solid",
+    "value": "book-bible@solid"
+  },
+  {
+    "name": "book-bookmark solid",
+    "value": "book-bookmark@solid"
+  },
+  {
+    "name": "book-journal-whills solid",
+    "value": "book-journal-whills@solid"
+  },
+  {
+    "name": "book-medical solid",
+    "value": "book-medical@solid"
+  },
+  {
+    "name": "book-open solid",
+    "value": "book-open@solid"
+  },
+  {
+    "name": "book-open-reader solid",
+    "value": "book-open-reader@solid"
+  },
+  {
+    "name": "book-quran solid",
+    "value": "book-quran@solid"
+  },
+  {
+    "name": "book-skull solid",
+    "value": "book-skull@solid"
+  },
+  {
+    "name": "book-tanakh solid",
+    "value": "book-tanakh@solid"
+  },
+  {
+    "name": "bookmark solid",
+    "value": "bookmark@solid"
+  },
+  {
+    "name": "border-all solid",
+    "value": "border-all@solid"
+  },
+  {
+    "name": "border-none solid",
+    "value": "border-none@solid"
+  },
+  {
+    "name": "border-top-left solid",
+    "value": "border-top-left@solid"
+  },
+  {
+    "name": "bore-hole solid",
+    "value": "bore-hole@solid"
+  },
+  {
+    "name": "bottle-droplet solid",
+    "value": "bottle-droplet@solid"
+  },
+  {
+    "name": "bottle-water solid",
+    "value": "bottle-water@solid"
+  },
+  {
+    "name": "bowl-food solid",
+    "value": "bowl-food@solid"
+  },
+  {
+    "name": "bowl-rice solid",
+    "value": "bowl-rice@solid"
+  },
+  {
+    "name": "bowling-ball solid",
+    "value": "bowling-ball@solid"
+  },
+  {
+    "name": "box solid",
+    "value": "box@solid"
+  },
+  {
+    "name": "box-archive solid",
+    "value": "box-archive@solid"
+  },
+  {
+    "name": "box-open solid",
+    "value": "box-open@solid"
+  },
+  {
+    "name": "box-tissue solid",
+    "value": "box-tissue@solid"
+  },
+  {
+    "name": "boxes-packing solid",
+    "value": "boxes-packing@solid"
+  },
+  {
+    "name": "boxes-stacked solid",
+    "value": "boxes-stacked@solid"
+  },
+  {
+    "name": "braille solid",
+    "value": "braille@solid"
+  },
+  {
+    "name": "brain solid",
+    "value": "brain@solid"
+  },
+  {
+    "name": "brazilian-real-sign solid",
+    "value": "brazilian-real-sign@solid"
+  },
+  {
+    "name": "bread-slice solid",
+    "value": "bread-slice@solid"
+  },
+  {
+    "name": "bridge solid",
+    "value": "bridge@solid"
+  },
+  {
+    "name": "bridge-circle-check solid",
+    "value": "bridge-circle-check@solid"
+  },
+  {
+    "name": "bridge-circle-exclamation solid",
+    "value": "bridge-circle-exclamation@solid"
+  },
+  {
+    "name": "bridge-circle-xmark solid",
+    "value": "bridge-circle-xmark@solid"
+  },
+  {
+    "name": "bridge-lock solid",
+    "value": "bridge-lock@solid"
+  },
+  {
+    "name": "bridge-water solid",
+    "value": "bridge-water@solid"
+  },
+  {
+    "name": "briefcase solid",
+    "value": "briefcase@solid"
+  },
+  {
+    "name": "briefcase-medical solid",
+    "value": "briefcase-medical@solid"
+  },
+  {
+    "name": "broom solid",
+    "value": "broom@solid"
+  },
+  {
+    "name": "broom-ball solid",
+    "value": "broom-ball@solid"
+  },
+  {
+    "name": "brush solid",
+    "value": "brush@solid"
+  },
+  {
+    "name": "bucket solid",
+    "value": "bucket@solid"
+  },
+  {
+    "name": "bug solid",
+    "value": "bug@solid"
+  },
+  {
+    "name": "bug-slash solid",
+    "value": "bug-slash@solid"
+  },
+  {
+    "name": "bugs solid",
+    "value": "bugs@solid"
+  },
+  {
+    "name": "building solid",
+    "value": "building@solid"
+  },
+  {
+    "name": "building-circle-arrow-right solid",
+    "value": "building-circle-arrow-right@solid"
+  },
+  {
+    "name": "building-circle-check solid",
+    "value": "building-circle-check@solid"
+  },
+  {
+    "name": "building-circle-exclamation solid",
+    "value": "building-circle-exclamation@solid"
+  },
+  {
+    "name": "building-circle-xmark solid",
+    "value": "building-circle-xmark@solid"
+  },
+  {
+    "name": "building-columns solid",
+    "value": "building-columns@solid"
+  },
+  {
+    "name": "building-flag solid",
+    "value": "building-flag@solid"
+  },
+  {
+    "name": "building-lock solid",
+    "value": "building-lock@solid"
+  },
+  {
+    "name": "building-ngo solid",
+    "value": "building-ngo@solid"
+  },
+  {
+    "name": "building-shield solid",
+    "value": "building-shield@solid"
+  },
+  {
+    "name": "building-un solid",
+    "value": "building-un@solid"
+  },
+  {
+    "name": "building-user solid",
+    "value": "building-user@solid"
+  },
+  {
+    "name": "building-wheat solid",
+    "value": "building-wheat@solid"
+  },
+  {
+    "name": "bullhorn solid",
+    "value": "bullhorn@solid"
+  },
+  {
+    "name": "bullseye solid",
+    "value": "bullseye@solid"
+  },
+  {
+    "name": "burger solid",
+    "value": "burger@solid"
+  },
+  {
+    "name": "burst solid",
+    "value": "burst@solid"
+  },
+  {
+    "name": "bus solid",
+    "value": "bus@solid"
+  },
+  {
+    "name": "bus-simple solid",
+    "value": "bus-simple@solid"
+  },
+  {
+    "name": "business-time solid",
+    "value": "business-time@solid"
+  },
+  {
+    "name": "c solid",
+    "value": "c@solid"
+  },
+  {
+    "name": "cable-car solid",
+    "value": "cable-car@solid"
+  },
+  {
+    "name": "cake-candles solid",
+    "value": "cake-candles@solid"
+  },
+  {
+    "name": "calculator solid",
+    "value": "calculator@solid"
+  },
+  {
+    "name": "calendar solid",
+    "value": "calendar@solid"
+  },
+  {
+    "name": "calendar-check solid",
+    "value": "calendar-check@solid"
+  },
+  {
+    "name": "calendar-day solid",
+    "value": "calendar-day@solid"
+  },
+  {
+    "name": "calendar-days solid",
+    "value": "calendar-days@solid"
+  },
+  {
+    "name": "calendar-minus solid",
+    "value": "calendar-minus@solid"
+  },
+  {
+    "name": "calendar-plus solid",
+    "value": "calendar-plus@solid"
+  },
+  {
+    "name": "calendar-week solid",
+    "value": "calendar-week@solid"
+  },
+  {
+    "name": "calendar-xmark solid",
+    "value": "calendar-xmark@solid"
+  },
+  {
+    "name": "camera solid",
+    "value": "camera@solid"
+  },
+  {
+    "name": "camera-retro solid",
+    "value": "camera-retro@solid"
+  },
+  {
+    "name": "camera-rotate solid",
+    "value": "camera-rotate@solid"
+  },
+  {
+    "name": "campground solid",
+    "value": "campground@solid"
+  },
+  {
+    "name": "candy-cane solid",
+    "value": "candy-cane@solid"
+  },
+  {
+    "name": "cannabis solid",
+    "value": "cannabis@solid"
+  },
+  {
+    "name": "capsules solid",
+    "value": "capsules@solid"
+  },
+  {
+    "name": "car solid",
+    "value": "car@solid"
+  },
+  {
+    "name": "car-battery solid",
+    "value": "car-battery@solid"
+  },
+  {
+    "name": "car-burst solid",
+    "value": "car-burst@solid"
+  },
+  {
+    "name": "car-on solid",
+    "value": "car-on@solid"
+  },
+  {
+    "name": "car-rear solid",
+    "value": "car-rear@solid"
+  },
+  {
+    "name": "car-side solid",
+    "value": "car-side@solid"
+  },
+  {
+    "name": "car-tunnel solid",
+    "value": "car-tunnel@solid"
+  },
+  {
+    "name": "caravan solid",
+    "value": "caravan@solid"
+  },
+  {
+    "name": "caret-down solid",
+    "value": "caret-down@solid"
+  },
+  {
+    "name": "caret-left solid",
+    "value": "caret-left@solid"
+  },
+  {
+    "name": "caret-right solid",
+    "value": "caret-right@solid"
+  },
+  {
+    "name": "caret-up solid",
+    "value": "caret-up@solid"
+  },
+  {
+    "name": "carrot solid",
+    "value": "carrot@solid"
+  },
+  {
+    "name": "cart-arrow-down solid",
+    "value": "cart-arrow-down@solid"
+  },
+  {
+    "name": "cart-flatbed solid",
+    "value": "cart-flatbed@solid"
+  },
+  {
+    "name": "cart-flatbed-suitcase solid",
+    "value": "cart-flatbed-suitcase@solid"
+  },
+  {
+    "name": "cart-plus solid",
+    "value": "cart-plus@solid"
+  },
+  {
+    "name": "cart-shopping solid",
+    "value": "cart-shopping@solid"
+  },
+  {
+    "name": "cash-register solid",
+    "value": "cash-register@solid"
+  },
+  {
+    "name": "cat solid",
+    "value": "cat@solid"
+  },
+  {
+    "name": "cedi-sign solid",
+    "value": "cedi-sign@solid"
+  },
+  {
+    "name": "cent-sign solid",
+    "value": "cent-sign@solid"
+  },
+  {
+    "name": "certificate solid",
+    "value": "certificate@solid"
+  },
+  {
+    "name": "chair solid",
+    "value": "chair@solid"
+  },
+  {
+    "name": "chalkboard solid",
+    "value": "chalkboard@solid"
+  },
+  {
+    "name": "chalkboard-user solid",
+    "value": "chalkboard-user@solid"
+  },
+  {
+    "name": "champagne-glasses solid",
+    "value": "champagne-glasses@solid"
+  },
+  {
+    "name": "charging-station solid",
+    "value": "charging-station@solid"
+  },
+  {
+    "name": "chart-area solid",
+    "value": "chart-area@solid"
+  },
+  {
+    "name": "chart-bar solid",
+    "value": "chart-bar@solid"
+  },
+  {
+    "name": "chart-column solid",
+    "value": "chart-column@solid"
+  },
+  {
+    "name": "chart-gantt solid",
+    "value": "chart-gantt@solid"
+  },
+  {
+    "name": "chart-line solid",
+    "value": "chart-line@solid"
+  },
+  {
+    "name": "chart-pie solid",
+    "value": "chart-pie@solid"
+  },
+  {
+    "name": "chart-simple solid",
+    "value": "chart-simple@solid"
+  },
+  {
+    "name": "check solid",
+    "value": "check@solid"
+  },
+  {
+    "name": "check-double solid",
+    "value": "check-double@solid"
+  },
+  {
+    "name": "check-to-slot solid",
+    "value": "check-to-slot@solid"
+  },
+  {
+    "name": "cheese solid",
+    "value": "cheese@solid"
+  },
+  {
+    "name": "chess solid",
+    "value": "chess@solid"
+  },
+  {
+    "name": "chess-bishop solid",
+    "value": "chess-bishop@solid"
+  },
+  {
+    "name": "chess-board solid",
+    "value": "chess-board@solid"
+  },
+  {
+    "name": "chess-king solid",
+    "value": "chess-king@solid"
+  },
+  {
+    "name": "chess-knight solid",
+    "value": "chess-knight@solid"
+  },
+  {
+    "name": "chess-pawn solid",
+    "value": "chess-pawn@solid"
+  },
+  {
+    "name": "chess-queen solid",
+    "value": "chess-queen@solid"
+  },
+  {
+    "name": "chess-rook solid",
+    "value": "chess-rook@solid"
+  },
+  {
+    "name": "chevron-down solid",
+    "value": "chevron-down@solid"
+  },
+  {
+    "name": "chevron-left solid",
+    "value": "chevron-left@solid"
+  },
+  {
+    "name": "chevron-right solid",
+    "value": "chevron-right@solid"
+  },
+  {
+    "name": "chevron-up solid",
+    "value": "chevron-up@solid"
+  },
+  {
+    "name": "child solid",
+    "value": "child@solid"
+  },
+  {
+    "name": "child-dress solid",
+    "value": "child-dress@solid"
+  },
+  {
+    "name": "child-reaching solid",
+    "value": "child-reaching@solid"
+  },
+  {
+    "name": "child-rifle solid",
+    "value": "child-rifle@solid"
+  },
+  {
+    "name": "children solid",
+    "value": "children@solid"
+  },
+  {
+    "name": "church solid",
+    "value": "church@solid"
+  },
+  {
+    "name": "circle solid",
+    "value": "circle@solid"
+  },
+  {
+    "name": "circle-arrow-down solid",
+    "value": "circle-arrow-down@solid"
+  },
+  {
+    "name": "circle-arrow-left solid",
+    "value": "circle-arrow-left@solid"
+  },
+  {
+    "name": "circle-arrow-right solid",
+    "value": "circle-arrow-right@solid"
+  },
+  {
+    "name": "circle-arrow-up solid",
+    "value": "circle-arrow-up@solid"
+  },
+  {
+    "name": "circle-check solid",
+    "value": "circle-check@solid"
+  },
+  {
+    "name": "circle-chevron-down solid",
+    "value": "circle-chevron-down@solid"
+  },
+  {
+    "name": "circle-chevron-left solid",
+    "value": "circle-chevron-left@solid"
+  },
+  {
+    "name": "circle-chevron-right solid",
+    "value": "circle-chevron-right@solid"
+  },
+  {
+    "name": "circle-chevron-up solid",
+    "value": "circle-chevron-up@solid"
+  },
+  {
+    "name": "circle-dollar-to-slot solid",
+    "value": "circle-dollar-to-slot@solid"
+  },
+  {
+    "name": "circle-dot solid",
+    "value": "circle-dot@solid"
+  },
+  {
+    "name": "circle-down solid",
+    "value": "circle-down@solid"
+  },
+  {
+    "name": "circle-exclamation solid",
+    "value": "circle-exclamation@solid"
+  },
+  {
+    "name": "circle-h solid",
+    "value": "circle-h@solid"
+  },
+  {
+    "name": "circle-half-stroke solid",
+    "value": "circle-half-stroke@solid"
+  },
+  {
+    "name": "circle-info solid",
+    "value": "circle-info@solid"
+  },
+  {
+    "name": "circle-left solid",
+    "value": "circle-left@solid"
+  },
+  {
+    "name": "circle-minus solid",
+    "value": "circle-minus@solid"
+  },
+  {
+    "name": "circle-nodes solid",
+    "value": "circle-nodes@solid"
+  },
+  {
+    "name": "circle-notch solid",
+    "value": "circle-notch@solid"
+  },
+  {
+    "name": "circle-pause solid",
+    "value": "circle-pause@solid"
+  },
+  {
+    "name": "circle-play solid",
+    "value": "circle-play@solid"
+  },
+  {
+    "name": "circle-plus solid",
+    "value": "circle-plus@solid"
+  },
+  {
+    "name": "circle-question solid",
+    "value": "circle-question@solid"
+  },
+  {
+    "name": "circle-radiation solid",
+    "value": "circle-radiation@solid"
+  },
+  {
+    "name": "circle-right solid",
+    "value": "circle-right@solid"
+  },
+  {
+    "name": "circle-stop solid",
+    "value": "circle-stop@solid"
+  },
+  {
+    "name": "circle-up solid",
+    "value": "circle-up@solid"
+  },
+  {
+    "name": "circle-user solid",
+    "value": "circle-user@solid"
+  },
+  {
+    "name": "circle-xmark solid",
+    "value": "circle-xmark@solid"
+  },
+  {
+    "name": "city solid",
+    "value": "city@solid"
+  },
+  {
+    "name": "clapperboard solid",
+    "value": "clapperboard@solid"
+  },
+  {
+    "name": "clipboard solid",
+    "value": "clipboard@solid"
+  },
+  {
+    "name": "clipboard-check solid",
+    "value": "clipboard-check@solid"
+  },
+  {
+    "name": "clipboard-list solid",
+    "value": "clipboard-list@solid"
+  },
+  {
+    "name": "clipboard-question solid",
+    "value": "clipboard-question@solid"
+  },
+  {
+    "name": "clipboard-user solid",
+    "value": "clipboard-user@solid"
+  },
+  {
+    "name": "clock solid",
+    "value": "clock@solid"
+  },
+  {
+    "name": "clock-rotate-left solid",
+    "value": "clock-rotate-left@solid"
+  },
+  {
+    "name": "clone solid",
+    "value": "clone@solid"
+  },
+  {
+    "name": "closed-captioning solid",
+    "value": "closed-captioning@solid"
+  },
+  {
+    "name": "cloud solid",
+    "value": "cloud@solid"
+  },
+  {
+    "name": "cloud-arrow-down solid",
+    "value": "cloud-arrow-down@solid"
+  },
+  {
+    "name": "cloud-arrow-up solid",
+    "value": "cloud-arrow-up@solid"
+  },
+  {
+    "name": "cloud-bolt solid",
+    "value": "cloud-bolt@solid"
+  },
+  {
+    "name": "cloud-meatball solid",
+    "value": "cloud-meatball@solid"
+  },
+  {
+    "name": "cloud-moon solid",
+    "value": "cloud-moon@solid"
+  },
+  {
+    "name": "cloud-moon-rain solid",
+    "value": "cloud-moon-rain@solid"
+  },
+  {
+    "name": "cloud-rain solid",
+    "value": "cloud-rain@solid"
+  },
+  {
+    "name": "cloud-showers-heavy solid",
+    "value": "cloud-showers-heavy@solid"
+  },
+  {
+    "name": "cloud-showers-water solid",
+    "value": "cloud-showers-water@solid"
+  },
+  {
+    "name": "cloud-sun solid",
+    "value": "cloud-sun@solid"
+  },
+  {
+    "name": "cloud-sun-rain solid",
+    "value": "cloud-sun-rain@solid"
+  },
+  {
+    "name": "clover solid",
+    "value": "clover@solid"
+  },
+  {
+    "name": "code solid",
+    "value": "code@solid"
+  },
+  {
+    "name": "code-branch solid",
+    "value": "code-branch@solid"
+  },
+  {
+    "name": "code-commit solid",
+    "value": "code-commit@solid"
+  },
+  {
+    "name": "code-compare solid",
+    "value": "code-compare@solid"
+  },
+  {
+    "name": "code-fork solid",
+    "value": "code-fork@solid"
+  },
+  {
+    "name": "code-merge solid",
+    "value": "code-merge@solid"
+  },
+  {
+    "name": "code-pull-request solid",
+    "value": "code-pull-request@solid"
+  },
+  {
+    "name": "coins solid",
+    "value": "coins@solid"
+  },
+  {
+    "name": "colon-sign solid",
+    "value": "colon-sign@solid"
+  },
+  {
+    "name": "comment solid",
+    "value": "comment@solid"
+  },
+  {
+    "name": "comment-dollar solid",
+    "value": "comment-dollar@solid"
+  },
+  {
+    "name": "comment-dots solid",
+    "value": "comment-dots@solid"
+  },
+  {
+    "name": "comment-medical solid",
+    "value": "comment-medical@solid"
+  },
+  {
+    "name": "comment-slash solid",
+    "value": "comment-slash@solid"
+  },
+  {
+    "name": "comment-sms solid",
+    "value": "comment-sms@solid"
+  },
+  {
+    "name": "comments solid",
+    "value": "comments@solid"
+  },
+  {
+    "name": "comments-dollar solid",
+    "value": "comments-dollar@solid"
+  },
+  {
+    "name": "compact-disc solid",
+    "value": "compact-disc@solid"
+  },
+  {
+    "name": "compass solid",
+    "value": "compass@solid"
+  },
+  {
+    "name": "compass-drafting solid",
+    "value": "compass-drafting@solid"
+  },
+  {
+    "name": "compress solid",
+    "value": "compress@solid"
+  },
+  {
+    "name": "computer solid",
+    "value": "computer@solid"
+  },
+  {
+    "name": "computer-mouse solid",
+    "value": "computer-mouse@solid"
+  },
+  {
+    "name": "cookie solid",
+    "value": "cookie@solid"
+  },
+  {
+    "name": "cookie-bite solid",
+    "value": "cookie-bite@solid"
+  },
+  {
+    "name": "copy solid",
+    "value": "copy@solid"
+  },
+  {
+    "name": "copyright solid",
+    "value": "copyright@solid"
+  },
+  {
+    "name": "couch solid",
+    "value": "couch@solid"
+  },
+  {
+    "name": "cow solid",
+    "value": "cow@solid"
+  },
+  {
+    "name": "credit-card solid",
+    "value": "credit-card@solid"
+  },
+  {
+    "name": "crop solid",
+    "value": "crop@solid"
+  },
+  {
+    "name": "crop-simple solid",
+    "value": "crop-simple@solid"
+  },
+  {
+    "name": "cross solid",
+    "value": "cross@solid"
+  },
+  {
+    "name": "crosshairs solid",
+    "value": "crosshairs@solid"
+  },
+  {
+    "name": "crow solid",
+    "value": "crow@solid"
+  },
+  {
+    "name": "crown solid",
+    "value": "crown@solid"
+  },
+  {
+    "name": "crutch solid",
+    "value": "crutch@solid"
+  },
+  {
+    "name": "cruzeiro-sign solid",
+    "value": "cruzeiro-sign@solid"
+  },
+  {
+    "name": "cube solid",
+    "value": "cube@solid"
+  },
+  {
+    "name": "cubes solid",
+    "value": "cubes@solid"
+  },
+  {
+    "name": "cubes-stacked solid",
+    "value": "cubes-stacked@solid"
+  },
+  {
+    "name": "d solid",
+    "value": "d@solid"
+  },
+  {
+    "name": "database solid",
+    "value": "database@solid"
+  },
+  {
+    "name": "delete-left solid",
+    "value": "delete-left@solid"
+  },
+  {
+    "name": "democrat solid",
+    "value": "democrat@solid"
+  },
+  {
+    "name": "desktop solid",
+    "value": "desktop@solid"
+  },
+  {
+    "name": "dharmachakra solid",
+    "value": "dharmachakra@solid"
+  },
+  {
+    "name": "diagram-next solid",
+    "value": "diagram-next@solid"
+  },
+  {
+    "name": "diagram-predecessor solid",
+    "value": "diagram-predecessor@solid"
+  },
+  {
+    "name": "diagram-project solid",
+    "value": "diagram-project@solid"
+  },
+  {
+    "name": "diagram-successor solid",
+    "value": "diagram-successor@solid"
+  },
+  {
+    "name": "diamond solid",
+    "value": "diamond@solid"
+  },
+  {
+    "name": "diamond-turn-right solid",
+    "value": "diamond-turn-right@solid"
+  },
+  {
+    "name": "dice solid",
+    "value": "dice@solid"
+  },
+  {
+    "name": "dice-d20 solid",
+    "value": "dice-d20@solid"
+  },
+  {
+    "name": "dice-d6 solid",
+    "value": "dice-d6@solid"
+  },
+  {
+    "name": "dice-five solid",
+    "value": "dice-five@solid"
+  },
+  {
+    "name": "dice-four solid",
+    "value": "dice-four@solid"
+  },
+  {
+    "name": "dice-one solid",
+    "value": "dice-one@solid"
+  },
+  {
+    "name": "dice-six solid",
+    "value": "dice-six@solid"
+  },
+  {
+    "name": "dice-three solid",
+    "value": "dice-three@solid"
+  },
+  {
+    "name": "dice-two solid",
+    "value": "dice-two@solid"
+  },
+  {
+    "name": "disease solid",
+    "value": "disease@solid"
+  },
+  {
+    "name": "display solid",
+    "value": "display@solid"
+  },
+  {
+    "name": "divide solid",
+    "value": "divide@solid"
+  },
+  {
+    "name": "dna solid",
+    "value": "dna@solid"
+  },
+  {
+    "name": "dog solid",
+    "value": "dog@solid"
+  },
+  {
+    "name": "dollar-sign solid",
+    "value": "dollar-sign@solid"
+  },
+  {
+    "name": "dolly solid",
+    "value": "dolly@solid"
+  },
+  {
+    "name": "dong-sign solid",
+    "value": "dong-sign@solid"
+  },
+  {
+    "name": "door-closed solid",
+    "value": "door-closed@solid"
+  },
+  {
+    "name": "door-open solid",
+    "value": "door-open@solid"
+  },
+  {
+    "name": "dove solid",
+    "value": "dove@solid"
+  },
+  {
+    "name": "down-left-and-up-right-to-center solid",
+    "value": "down-left-and-up-right-to-center@solid"
+  },
+  {
+    "name": "down-long solid",
+    "value": "down-long@solid"
+  },
+  {
+    "name": "download solid",
+    "value": "download@solid"
+  },
+  {
+    "name": "dragon solid",
+    "value": "dragon@solid"
+  },
+  {
+    "name": "draw-polygon solid",
+    "value": "draw-polygon@solid"
+  },
+  {
+    "name": "droplet solid",
+    "value": "droplet@solid"
+  },
+  {
+    "name": "droplet-slash solid",
+    "value": "droplet-slash@solid"
+  },
+  {
+    "name": "drum solid",
+    "value": "drum@solid"
+  },
+  {
+    "name": "drum-steelpan solid",
+    "value": "drum-steelpan@solid"
+  },
+  {
+    "name": "drumstick-bite solid",
+    "value": "drumstick-bite@solid"
+  },
+  {
+    "name": "dumbbell solid",
+    "value": "dumbbell@solid"
+  },
+  {
+    "name": "dumpster solid",
+    "value": "dumpster@solid"
+  },
+  {
+    "name": "dumpster-fire solid",
+    "value": "dumpster-fire@solid"
+  },
+  {
+    "name": "dungeon solid",
+    "value": "dungeon@solid"
+  },
+  {
+    "name": "e solid",
+    "value": "e@solid"
+  },
+  {
+    "name": "ear-deaf solid",
+    "value": "ear-deaf@solid"
+  },
+  {
+    "name": "ear-listen solid",
+    "value": "ear-listen@solid"
+  },
+  {
+    "name": "earth-africa solid",
+    "value": "earth-africa@solid"
+  },
+  {
+    "name": "earth-americas solid",
+    "value": "earth-americas@solid"
+  },
+  {
+    "name": "earth-asia solid",
+    "value": "earth-asia@solid"
+  },
+  {
+    "name": "earth-europe solid",
+    "value": "earth-europe@solid"
+  },
+  {
+    "name": "earth-oceania solid",
+    "value": "earth-oceania@solid"
+  },
+  {
+    "name": "egg solid",
+    "value": "egg@solid"
+  },
+  {
+    "name": "eject solid",
+    "value": "eject@solid"
+  },
+  {
+    "name": "elevator solid",
+    "value": "elevator@solid"
+  },
+  {
+    "name": "ellipsis solid",
+    "value": "ellipsis@solid"
+  },
+  {
+    "name": "ellipsis-vertical solid",
+    "value": "ellipsis-vertical@solid"
+  },
+  {
+    "name": "envelope solid",
+    "value": "envelope@solid"
+  },
+  {
+    "name": "envelope-circle-check solid",
+    "value": "envelope-circle-check@solid"
+  },
+  {
+    "name": "envelope-open solid",
+    "value": "envelope-open@solid"
+  },
+  {
+    "name": "envelope-open-text solid",
+    "value": "envelope-open-text@solid"
+  },
+  {
+    "name": "envelopes-bulk solid",
+    "value": "envelopes-bulk@solid"
+  },
+  {
+    "name": "equals solid",
+    "value": "equals@solid"
+  },
+  {
+    "name": "eraser solid",
+    "value": "eraser@solid"
+  },
+  {
+    "name": "ethernet solid",
+    "value": "ethernet@solid"
+  },
+  {
+    "name": "euro-sign solid",
+    "value": "euro-sign@solid"
+  },
+  {
+    "name": "exclamation solid",
+    "value": "exclamation@solid"
+  },
+  {
+    "name": "expand solid",
+    "value": "expand@solid"
+  },
+  {
+    "name": "explosion solid",
+    "value": "explosion@solid"
+  },
+  {
+    "name": "eye solid",
+    "value": "eye@solid"
+  },
+  {
+    "name": "eye-dropper solid",
+    "value": "eye-dropper@solid"
+  },
+  {
+    "name": "eye-low-vision solid",
+    "value": "eye-low-vision@solid"
+  },
+  {
+    "name": "eye-slash solid",
+    "value": "eye-slash@solid"
+  },
+  {
+    "name": "f solid",
+    "value": "f@solid"
+  },
+  {
+    "name": "face-angry solid",
+    "value": "face-angry@solid"
+  },
+  {
+    "name": "face-dizzy solid",
+    "value": "face-dizzy@solid"
+  },
+  {
+    "name": "face-flushed solid",
+    "value": "face-flushed@solid"
+  },
+  {
+    "name": "face-frown solid",
+    "value": "face-frown@solid"
+  },
+  {
+    "name": "face-frown-open solid",
+    "value": "face-frown-open@solid"
+  },
+  {
+    "name": "face-grimace solid",
+    "value": "face-grimace@solid"
+  },
+  {
+    "name": "face-grin solid",
+    "value": "face-grin@solid"
+  },
+  {
+    "name": "face-grin-beam solid",
+    "value": "face-grin-beam@solid"
+  },
+  {
+    "name": "face-grin-beam-sweat solid",
+    "value": "face-grin-beam-sweat@solid"
+  },
+  {
+    "name": "face-grin-hearts solid",
+    "value": "face-grin-hearts@solid"
+  },
+  {
+    "name": "face-grin-squint solid",
+    "value": "face-grin-squint@solid"
+  },
+  {
+    "name": "face-grin-squint-tears solid",
+    "value": "face-grin-squint-tears@solid"
+  },
+  {
+    "name": "face-grin-stars solid",
+    "value": "face-grin-stars@solid"
+  },
+  {
+    "name": "face-grin-tears solid",
+    "value": "face-grin-tears@solid"
+  },
+  {
+    "name": "face-grin-tongue solid",
+    "value": "face-grin-tongue@solid"
+  },
+  {
+    "name": "face-grin-tongue-squint solid",
+    "value": "face-grin-tongue-squint@solid"
+  },
+  {
+    "name": "face-grin-tongue-wink solid",
+    "value": "face-grin-tongue-wink@solid"
+  },
+  {
+    "name": "face-grin-wide solid",
+    "value": "face-grin-wide@solid"
+  },
+  {
+    "name": "face-grin-wink solid",
+    "value": "face-grin-wink@solid"
+  },
+  {
+    "name": "face-kiss solid",
+    "value": "face-kiss@solid"
+  },
+  {
+    "name": "face-kiss-beam solid",
+    "value": "face-kiss-beam@solid"
+  },
+  {
+    "name": "face-kiss-wink-heart solid",
+    "value": "face-kiss-wink-heart@solid"
+  },
+  {
+    "name": "face-laugh solid",
+    "value": "face-laugh@solid"
+  },
+  {
+    "name": "face-laugh-beam solid",
+    "value": "face-laugh-beam@solid"
+  },
+  {
+    "name": "face-laugh-squint solid",
+    "value": "face-laugh-squint@solid"
+  },
+  {
+    "name": "face-laugh-wink solid",
+    "value": "face-laugh-wink@solid"
+  },
+  {
+    "name": "face-meh solid",
+    "value": "face-meh@solid"
+  },
+  {
+    "name": "face-meh-blank solid",
+    "value": "face-meh-blank@solid"
+  },
+  {
+    "name": "face-rolling-eyes solid",
+    "value": "face-rolling-eyes@solid"
+  },
+  {
+    "name": "face-sad-cry solid",
+    "value": "face-sad-cry@solid"
+  },
+  {
+    "name": "face-sad-tear solid",
+    "value": "face-sad-tear@solid"
+  },
+  {
+    "name": "face-smile solid",
+    "value": "face-smile@solid"
+  },
+  {
+    "name": "face-smile-beam solid",
+    "value": "face-smile-beam@solid"
+  },
+  {
+    "name": "face-smile-wink solid",
+    "value": "face-smile-wink@solid"
+  },
+  {
+    "name": "face-surprise solid",
+    "value": "face-surprise@solid"
+  },
+  {
+    "name": "face-tired solid",
+    "value": "face-tired@solid"
+  },
+  {
+    "name": "fan solid",
+    "value": "fan@solid"
+  },
+  {
+    "name": "faucet solid",
+    "value": "faucet@solid"
+  },
+  {
+    "name": "faucet-drip solid",
+    "value": "faucet-drip@solid"
+  },
+  {
+    "name": "fax solid",
+    "value": "fax@solid"
+  },
+  {
+    "name": "feather solid",
+    "value": "feather@solid"
+  },
+  {
+    "name": "feather-pointed solid",
+    "value": "feather-pointed@solid"
+  },
+  {
+    "name": "ferry solid",
+    "value": "ferry@solid"
+  },
+  {
+    "name": "file solid",
+    "value": "file@solid"
+  },
+  {
+    "name": "file-arrow-down solid",
+    "value": "file-arrow-down@solid"
+  },
+  {
+    "name": "file-arrow-up solid",
+    "value": "file-arrow-up@solid"
+  },
+  {
+    "name": "file-audio solid",
+    "value": "file-audio@solid"
+  },
+  {
+    "name": "file-circle-check solid",
+    "value": "file-circle-check@solid"
+  },
+  {
+    "name": "file-circle-exclamation solid",
+    "value": "file-circle-exclamation@solid"
+  },
+  {
+    "name": "file-circle-minus solid",
+    "value": "file-circle-minus@solid"
+  },
+  {
+    "name": "file-circle-plus solid",
+    "value": "file-circle-plus@solid"
+  },
+  {
+    "name": "file-circle-question solid",
+    "value": "file-circle-question@solid"
+  },
+  {
+    "name": "file-circle-xmark solid",
+    "value": "file-circle-xmark@solid"
+  },
+  {
+    "name": "file-code solid",
+    "value": "file-code@solid"
+  },
+  {
+    "name": "file-contract solid",
+    "value": "file-contract@solid"
+  },
+  {
+    "name": "file-csv solid",
+    "value": "file-csv@solid"
+  },
+  {
+    "name": "file-excel solid",
+    "value": "file-excel@solid"
+  },
+  {
+    "name": "file-export solid",
+    "value": "file-export@solid"
+  },
+  {
+    "name": "file-image solid",
+    "value": "file-image@solid"
+  },
+  {
+    "name": "file-import solid",
+    "value": "file-import@solid"
+  },
+  {
+    "name": "file-invoice solid",
+    "value": "file-invoice@solid"
+  },
+  {
+    "name": "file-invoice-dollar solid",
+    "value": "file-invoice-dollar@solid"
+  },
+  {
+    "name": "file-lines solid",
+    "value": "file-lines@solid"
+  },
+  {
+    "name": "file-medical solid",
+    "value": "file-medical@solid"
+  },
+  {
+    "name": "file-pdf solid",
+    "value": "file-pdf@solid"
+  },
+  {
+    "name": "file-pen solid",
+    "value": "file-pen@solid"
+  },
+  {
+    "name": "file-powerpoint solid",
+    "value": "file-powerpoint@solid"
+  },
+  {
+    "name": "file-prescription solid",
+    "value": "file-prescription@solid"
+  },
+  {
+    "name": "file-shield solid",
+    "value": "file-shield@solid"
+  },
+  {
+    "name": "file-signature solid",
+    "value": "file-signature@solid"
+  },
+  {
+    "name": "file-video solid",
+    "value": "file-video@solid"
+  },
+  {
+    "name": "file-waveform solid",
+    "value": "file-waveform@solid"
+  },
+  {
+    "name": "file-word solid",
+    "value": "file-word@solid"
+  },
+  {
+    "name": "file-zipper solid",
+    "value": "file-zipper@solid"
+  },
+  {
+    "name": "fill solid",
+    "value": "fill@solid"
+  },
+  {
+    "name": "fill-drip solid",
+    "value": "fill-drip@solid"
+  },
+  {
+    "name": "film solid",
+    "value": "film@solid"
+  },
+  {
+    "name": "filter solid",
+    "value": "filter@solid"
+  },
+  {
+    "name": "filter-circle-dollar solid",
+    "value": "filter-circle-dollar@solid"
+  },
+  {
+    "name": "filter-circle-xmark solid",
+    "value": "filter-circle-xmark@solid"
+  },
+  {
+    "name": "fingerprint solid",
+    "value": "fingerprint@solid"
+  },
+  {
+    "name": "fire solid",
+    "value": "fire@solid"
+  },
+  {
+    "name": "fire-burner solid",
+    "value": "fire-burner@solid"
+  },
+  {
+    "name": "fire-extinguisher solid",
+    "value": "fire-extinguisher@solid"
+  },
+  {
+    "name": "fire-flame-curved solid",
+    "value": "fire-flame-curved@solid"
+  },
+  {
+    "name": "fire-flame-simple solid",
+    "value": "fire-flame-simple@solid"
+  },
+  {
+    "name": "fish solid",
+    "value": "fish@solid"
+  },
+  {
+    "name": "fish-fins solid",
+    "value": "fish-fins@solid"
+  },
+  {
+    "name": "flag solid",
+    "value": "flag@solid"
+  },
+  {
+    "name": "flag-checkered solid",
+    "value": "flag-checkered@solid"
+  },
+  {
+    "name": "flag-usa solid",
+    "value": "flag-usa@solid"
+  },
+  {
+    "name": "flask solid",
+    "value": "flask@solid"
+  },
+  {
+    "name": "flask-vial solid",
+    "value": "flask-vial@solid"
+  },
+  {
+    "name": "floppy-disk solid",
+    "value": "floppy-disk@solid"
+  },
+  {
+    "name": "florin-sign solid",
+    "value": "florin-sign@solid"
+  },
+  {
+    "name": "folder solid",
+    "value": "folder@solid"
+  },
+  {
+    "name": "folder-closed solid",
+    "value": "folder-closed@solid"
+  },
+  {
+    "name": "folder-minus solid",
+    "value": "folder-minus@solid"
+  },
+  {
+    "name": "folder-open solid",
+    "value": "folder-open@solid"
+  },
+  {
+    "name": "folder-plus solid",
+    "value": "folder-plus@solid"
+  },
+  {
+    "name": "folder-tree solid",
+    "value": "folder-tree@solid"
+  },
+  {
+    "name": "font solid",
+    "value": "font@solid"
+  },
+  {
+    "name": "font-awesome solid",
+    "value": "font-awesome@solid"
+  },
+  {
+    "name": "football solid",
+    "value": "football@solid"
+  },
+  {
+    "name": "forward solid",
+    "value": "forward@solid"
+  },
+  {
+    "name": "forward-fast solid",
+    "value": "forward-fast@solid"
+  },
+  {
+    "name": "forward-step solid",
+    "value": "forward-step@solid"
+  },
+  {
+    "name": "franc-sign solid",
+    "value": "franc-sign@solid"
+  },
+  {
+    "name": "frog solid",
+    "value": "frog@solid"
+  },
+  {
+    "name": "futbol solid",
+    "value": "futbol@solid"
+  },
+  {
+    "name": "g solid",
+    "value": "g@solid"
+  },
+  {
+    "name": "gamepad solid",
+    "value": "gamepad@solid"
+  },
+  {
+    "name": "gas-pump solid",
+    "value": "gas-pump@solid"
+  },
+  {
+    "name": "gauge solid",
+    "value": "gauge@solid"
+  },
+  {
+    "name": "gauge-high solid",
+    "value": "gauge-high@solid"
+  },
+  {
+    "name": "gauge-simple solid",
+    "value": "gauge-simple@solid"
+  },
+  {
+    "name": "gauge-simple-high solid",
+    "value": "gauge-simple-high@solid"
+  },
+  {
+    "name": "gavel solid",
+    "value": "gavel@solid"
+  },
+  {
+    "name": "gear solid",
+    "value": "gear@solid"
+  },
+  {
+    "name": "gears solid",
+    "value": "gears@solid"
+  },
+  {
+    "name": "gem solid",
+    "value": "gem@solid"
+  },
+  {
+    "name": "genderless solid",
+    "value": "genderless@solid"
+  },
+  {
+    "name": "ghost solid",
+    "value": "ghost@solid"
+  },
+  {
+    "name": "gift solid",
+    "value": "gift@solid"
+  },
+  {
+    "name": "gifts solid",
+    "value": "gifts@solid"
+  },
+  {
+    "name": "glass-water solid",
+    "value": "glass-water@solid"
+  },
+  {
+    "name": "glass-water-droplet solid",
+    "value": "glass-water-droplet@solid"
+  },
+  {
+    "name": "glasses solid",
+    "value": "glasses@solid"
+  },
+  {
+    "name": "globe solid",
+    "value": "globe@solid"
+  },
+  {
+    "name": "golf-ball-tee solid",
+    "value": "golf-ball-tee@solid"
+  },
+  {
+    "name": "gopuram solid",
+    "value": "gopuram@solid"
+  },
+  {
+    "name": "graduation-cap solid",
+    "value": "graduation-cap@solid"
+  },
+  {
+    "name": "greater-than solid",
+    "value": "greater-than@solid"
+  },
+  {
+    "name": "greater-than-equal solid",
+    "value": "greater-than-equal@solid"
+  },
+  {
+    "name": "grip solid",
+    "value": "grip@solid"
+  },
+  {
+    "name": "grip-lines solid",
+    "value": "grip-lines@solid"
+  },
+  {
+    "name": "grip-lines-vertical solid",
+    "value": "grip-lines-vertical@solid"
+  },
+  {
+    "name": "grip-vertical solid",
+    "value": "grip-vertical@solid"
+  },
+  {
+    "name": "group-arrows-rotate solid",
+    "value": "group-arrows-rotate@solid"
+  },
+  {
+    "name": "guarani-sign solid",
+    "value": "guarani-sign@solid"
+  },
+  {
+    "name": "guitar solid",
+    "value": "guitar@solid"
+  },
+  {
+    "name": "gun solid",
+    "value": "gun@solid"
+  },
+  {
+    "name": "h solid",
+    "value": "h@solid"
+  },
+  {
+    "name": "hammer solid",
+    "value": "hammer@solid"
+  },
+  {
+    "name": "hamsa solid",
+    "value": "hamsa@solid"
+  },
+  {
+    "name": "hand solid",
+    "value": "hand@solid"
+  },
+  {
+    "name": "hand-back-fist solid",
+    "value": "hand-back-fist@solid"
+  },
+  {
+    "name": "hand-dots solid",
+    "value": "hand-dots@solid"
+  },
+  {
+    "name": "hand-fist solid",
+    "value": "hand-fist@solid"
+  },
+  {
+    "name": "hand-holding solid",
+    "value": "hand-holding@solid"
+  },
+  {
+    "name": "hand-holding-dollar solid",
+    "value": "hand-holding-dollar@solid"
+  },
+  {
+    "name": "hand-holding-droplet solid",
+    "value": "hand-holding-droplet@solid"
+  },
+  {
+    "name": "hand-holding-hand solid",
+    "value": "hand-holding-hand@solid"
+  },
+  {
+    "name": "hand-holding-heart solid",
+    "value": "hand-holding-heart@solid"
+  },
+  {
+    "name": "hand-holding-medical solid",
+    "value": "hand-holding-medical@solid"
+  },
+  {
+    "name": "hand-lizard solid",
+    "value": "hand-lizard@solid"
+  },
+  {
+    "name": "hand-middle-finger solid",
+    "value": "hand-middle-finger@solid"
+  },
+  {
+    "name": "hand-peace solid",
+    "value": "hand-peace@solid"
+  },
+  {
+    "name": "hand-point-down solid",
+    "value": "hand-point-down@solid"
+  },
+  {
+    "name": "hand-point-left solid",
+    "value": "hand-point-left@solid"
+  },
+  {
+    "name": "hand-point-right solid",
+    "value": "hand-point-right@solid"
+  },
+  {
+    "name": "hand-point-up solid",
+    "value": "hand-point-up@solid"
+  },
+  {
+    "name": "hand-pointer solid",
+    "value": "hand-pointer@solid"
+  },
+  {
+    "name": "hand-scissors solid",
+    "value": "hand-scissors@solid"
+  },
+  {
+    "name": "hand-sparkles solid",
+    "value": "hand-sparkles@solid"
+  },
+  {
+    "name": "hand-spock solid",
+    "value": "hand-spock@solid"
+  },
+  {
+    "name": "handcuffs solid",
+    "value": "handcuffs@solid"
+  },
+  {
+    "name": "hands solid",
+    "value": "hands@solid"
+  },
+  {
+    "name": "hands-asl-interpreting solid",
+    "value": "hands-asl-interpreting@solid"
+  },
+  {
+    "name": "hands-bound solid",
+    "value": "hands-bound@solid"
+  },
+  {
+    "name": "hands-bubbles solid",
+    "value": "hands-bubbles@solid"
+  },
+  {
+    "name": "hands-clapping solid",
+    "value": "hands-clapping@solid"
+  },
+  {
+    "name": "hands-holding solid",
+    "value": "hands-holding@solid"
+  },
+  {
+    "name": "hands-holding-child solid",
+    "value": "hands-holding-child@solid"
+  },
+  {
+    "name": "hands-holding-circle solid",
+    "value": "hands-holding-circle@solid"
+  },
+  {
+    "name": "hands-praying solid",
+    "value": "hands-praying@solid"
+  },
+  {
+    "name": "handshake solid",
+    "value": "handshake@solid"
+  },
+  {
+    "name": "handshake-angle solid",
+    "value": "handshake-angle@solid"
+  },
+  {
+    "name": "handshake-simple solid",
+    "value": "handshake-simple@solid"
+  },
+  {
+    "name": "handshake-simple-slash solid",
+    "value": "handshake-simple-slash@solid"
+  },
+  {
+    "name": "handshake-slash solid",
+    "value": "handshake-slash@solid"
+  },
+  {
+    "name": "hanukiah solid",
+    "value": "hanukiah@solid"
+  },
+  {
+    "name": "hard-drive solid",
+    "value": "hard-drive@solid"
+  },
+  {
+    "name": "hashtag solid",
+    "value": "hashtag@solid"
+  },
+  {
+    "name": "hat-cowboy solid",
+    "value": "hat-cowboy@solid"
+  },
+  {
+    "name": "hat-cowboy-side solid",
+    "value": "hat-cowboy-side@solid"
+  },
+  {
+    "name": "hat-wizard solid",
+    "value": "hat-wizard@solid"
+  },
+  {
+    "name": "head-side-cough solid",
+    "value": "head-side-cough@solid"
+  },
+  {
+    "name": "head-side-cough-slash solid",
+    "value": "head-side-cough-slash@solid"
+  },
+  {
+    "name": "head-side-mask solid",
+    "value": "head-side-mask@solid"
+  },
+  {
+    "name": "head-side-virus solid",
+    "value": "head-side-virus@solid"
+  },
+  {
+    "name": "heading solid",
+    "value": "heading@solid"
+  },
+  {
+    "name": "headphones solid",
+    "value": "headphones@solid"
+  },
+  {
+    "name": "headphones-simple solid",
+    "value": "headphones-simple@solid"
+  },
+  {
+    "name": "headset solid",
+    "value": "headset@solid"
+  },
+  {
+    "name": "heart solid",
+    "value": "heart@solid"
+  },
+  {
+    "name": "heart-circle-bolt solid",
+    "value": "heart-circle-bolt@solid"
+  },
+  {
+    "name": "heart-circle-check solid",
+    "value": "heart-circle-check@solid"
+  },
+  {
+    "name": "heart-circle-exclamation solid",
+    "value": "heart-circle-exclamation@solid"
+  },
+  {
+    "name": "heart-circle-minus solid",
+    "value": "heart-circle-minus@solid"
+  },
+  {
+    "name": "heart-circle-plus solid",
+    "value": "heart-circle-plus@solid"
+  },
+  {
+    "name": "heart-circle-xmark solid",
+    "value": "heart-circle-xmark@solid"
+  },
+  {
+    "name": "heart-crack solid",
+    "value": "heart-crack@solid"
+  },
+  {
+    "name": "heart-pulse solid",
+    "value": "heart-pulse@solid"
+  },
+  {
+    "name": "helicopter solid",
+    "value": "helicopter@solid"
+  },
+  {
+    "name": "helicopter-symbol solid",
+    "value": "helicopter-symbol@solid"
+  },
+  {
+    "name": "helmet-safety solid",
+    "value": "helmet-safety@solid"
+  },
+  {
+    "name": "helmet-un solid",
+    "value": "helmet-un@solid"
+  },
+  {
+    "name": "highlighter solid",
+    "value": "highlighter@solid"
+  },
+  {
+    "name": "hill-avalanche solid",
+    "value": "hill-avalanche@solid"
+  },
+  {
+    "name": "hill-rockslide solid",
+    "value": "hill-rockslide@solid"
+  },
+  {
+    "name": "hippo solid",
+    "value": "hippo@solid"
+  },
+  {
+    "name": "hockey-puck solid",
+    "value": "hockey-puck@solid"
+  },
+  {
+    "name": "holly-berry solid",
+    "value": "holly-berry@solid"
+  },
+  {
+    "name": "horse solid",
+    "value": "horse@solid"
+  },
+  {
+    "name": "horse-head solid",
+    "value": "horse-head@solid"
+  },
+  {
+    "name": "hospital solid",
+    "value": "hospital@solid"
+  },
+  {
+    "name": "hospital-user solid",
+    "value": "hospital-user@solid"
+  },
+  {
+    "name": "hot-tub-person solid",
+    "value": "hot-tub-person@solid"
+  },
+  {
+    "name": "hotdog solid",
+    "value": "hotdog@solid"
+  },
+  {
+    "name": "hotel solid",
+    "value": "hotel@solid"
+  },
+  {
+    "name": "hourglass solid",
+    "value": "hourglass@solid"
+  },
+  {
+    "name": "hourglass-end solid",
+    "value": "hourglass-end@solid"
+  },
+  {
+    "name": "hourglass-half solid",
+    "value": "hourglass-half@solid"
+  },
+  {
+    "name": "hourglass-start solid",
+    "value": "hourglass-start@solid"
+  },
+  {
+    "name": "house solid",
+    "value": "house@solid"
+  },
+  {
+    "name": "house-chimney solid",
+    "value": "house-chimney@solid"
+  },
+  {
+    "name": "house-chimney-crack solid",
+    "value": "house-chimney-crack@solid"
+  },
+  {
+    "name": "house-chimney-medical solid",
+    "value": "house-chimney-medical@solid"
+  },
+  {
+    "name": "house-chimney-user solid",
+    "value": "house-chimney-user@solid"
+  },
+  {
+    "name": "house-chimney-window solid",
+    "value": "house-chimney-window@solid"
+  },
+  {
+    "name": "house-circle-check solid",
+    "value": "house-circle-check@solid"
+  },
+  {
+    "name": "house-circle-exclamation solid",
+    "value": "house-circle-exclamation@solid"
+  },
+  {
+    "name": "house-circle-xmark solid",
+    "value": "house-circle-xmark@solid"
+  },
+  {
+    "name": "house-crack solid",
+    "value": "house-crack@solid"
+  },
+  {
+    "name": "house-fire solid",
+    "value": "house-fire@solid"
+  },
+  {
+    "name": "house-flag solid",
+    "value": "house-flag@solid"
+  },
+  {
+    "name": "house-flood-water solid",
+    "value": "house-flood-water@solid"
+  },
+  {
+    "name": "house-flood-water-circle-arrow-right solid",
+    "value": "house-flood-water-circle-arrow-right@solid"
+  },
+  {
+    "name": "house-laptop solid",
+    "value": "house-laptop@solid"
+  },
+  {
+    "name": "house-lock solid",
+    "value": "house-lock@solid"
+  },
+  {
+    "name": "house-medical solid",
+    "value": "house-medical@solid"
+  },
+  {
+    "name": "house-medical-circle-check solid",
+    "value": "house-medical-circle-check@solid"
+  },
+  {
+    "name": "house-medical-circle-exclamation solid",
+    "value": "house-medical-circle-exclamation@solid"
+  },
+  {
+    "name": "house-medical-circle-xmark solid",
+    "value": "house-medical-circle-xmark@solid"
+  },
+  {
+    "name": "house-medical-flag solid",
+    "value": "house-medical-flag@solid"
+  },
+  {
+    "name": "house-signal solid",
+    "value": "house-signal@solid"
+  },
+  {
+    "name": "house-tsunami solid",
+    "value": "house-tsunami@solid"
+  },
+  {
+    "name": "house-user solid",
+    "value": "house-user@solid"
+  },
+  {
+    "name": "hryvnia-sign solid",
+    "value": "hryvnia-sign@solid"
+  },
+  {
+    "name": "hurricane solid",
+    "value": "hurricane@solid"
+  },
+  {
+    "name": "i solid",
+    "value": "i@solid"
+  },
+  {
+    "name": "i-cursor solid",
+    "value": "i-cursor@solid"
+  },
+  {
+    "name": "ice-cream solid",
+    "value": "ice-cream@solid"
+  },
+  {
+    "name": "icicles solid",
+    "value": "icicles@solid"
+  },
+  {
+    "name": "icons solid",
+    "value": "icons@solid"
+  },
+  {
+    "name": "id-badge solid",
+    "value": "id-badge@solid"
+  },
+  {
+    "name": "id-card solid",
+    "value": "id-card@solid"
+  },
+  {
+    "name": "id-card-clip solid",
+    "value": "id-card-clip@solid"
+  },
+  {
+    "name": "igloo solid",
+    "value": "igloo@solid"
+  },
+  {
+    "name": "image solid",
+    "value": "image@solid"
+  },
+  {
+    "name": "image-portrait solid",
+    "value": "image-portrait@solid"
+  },
+  {
+    "name": "images solid",
+    "value": "images@solid"
+  },
+  {
+    "name": "inbox solid",
+    "value": "inbox@solid"
+  },
+  {
+    "name": "indent solid",
+    "value": "indent@solid"
+  },
+  {
+    "name": "indian-rupee-sign solid",
+    "value": "indian-rupee-sign@solid"
+  },
+  {
+    "name": "industry solid",
+    "value": "industry@solid"
+  },
+  {
+    "name": "infinity solid",
+    "value": "infinity@solid"
+  },
+  {
+    "name": "info solid",
+    "value": "info@solid"
+  },
+  {
+    "name": "italic solid",
+    "value": "italic@solid"
+  },
+  {
+    "name": "j solid",
+    "value": "j@solid"
+  },
+  {
+    "name": "jar solid",
+    "value": "jar@solid"
+  },
+  {
+    "name": "jar-wheat solid",
+    "value": "jar-wheat@solid"
+  },
+  {
+    "name": "jedi solid",
+    "value": "jedi@solid"
+  },
+  {
+    "name": "jet-fighter solid",
+    "value": "jet-fighter@solid"
+  },
+  {
+    "name": "jet-fighter-up solid",
+    "value": "jet-fighter-up@solid"
+  },
+  {
+    "name": "joint solid",
+    "value": "joint@solid"
+  },
+  {
+    "name": "jug-detergent solid",
+    "value": "jug-detergent@solid"
+  },
+  {
+    "name": "k solid",
+    "value": "k@solid"
+  },
+  {
+    "name": "kaaba solid",
+    "value": "kaaba@solid"
+  },
+  {
+    "name": "key solid",
+    "value": "key@solid"
+  },
+  {
+    "name": "keyboard solid",
+    "value": "keyboard@solid"
+  },
+  {
+    "name": "khanda solid",
+    "value": "khanda@solid"
+  },
+  {
+    "name": "kip-sign solid",
+    "value": "kip-sign@solid"
+  },
+  {
+    "name": "kit-medical solid",
+    "value": "kit-medical@solid"
+  },
+  {
+    "name": "kitchen-set solid",
+    "value": "kitchen-set@solid"
+  },
+  {
+    "name": "kiwi-bird solid",
+    "value": "kiwi-bird@solid"
+  },
+  {
+    "name": "l solid",
+    "value": "l@solid"
+  },
+  {
+    "name": "land-mine-on solid",
+    "value": "land-mine-on@solid"
+  },
+  {
+    "name": "landmark solid",
+    "value": "landmark@solid"
+  },
+  {
+    "name": "landmark-dome solid",
+    "value": "landmark-dome@solid"
+  },
+  {
+    "name": "landmark-flag solid",
+    "value": "landmark-flag@solid"
+  },
+  {
+    "name": "language solid",
+    "value": "language@solid"
+  },
+  {
+    "name": "laptop solid",
+    "value": "laptop@solid"
+  },
+  {
+    "name": "laptop-code solid",
+    "value": "laptop-code@solid"
+  },
+  {
+    "name": "laptop-file solid",
+    "value": "laptop-file@solid"
+  },
+  {
+    "name": "laptop-medical solid",
+    "value": "laptop-medical@solid"
+  },
+  {
+    "name": "lari-sign solid",
+    "value": "lari-sign@solid"
+  },
+  {
+    "name": "layer-group solid",
+    "value": "layer-group@solid"
+  },
+  {
+    "name": "leaf solid",
+    "value": "leaf@solid"
+  },
+  {
+    "name": "left-long solid",
+    "value": "left-long@solid"
+  },
+  {
+    "name": "left-right solid",
+    "value": "left-right@solid"
+  },
+  {
+    "name": "lemon solid",
+    "value": "lemon@solid"
+  },
+  {
+    "name": "less-than solid",
+    "value": "less-than@solid"
+  },
+  {
+    "name": "less-than-equal solid",
+    "value": "less-than-equal@solid"
+  },
+  {
+    "name": "life-ring solid",
+    "value": "life-ring@solid"
+  },
+  {
+    "name": "lightbulb solid",
+    "value": "lightbulb@solid"
+  },
+  {
+    "name": "lines-leaning solid",
+    "value": "lines-leaning@solid"
+  },
+  {
+    "name": "link solid",
+    "value": "link@solid"
+  },
+  {
+    "name": "link-slash solid",
+    "value": "link-slash@solid"
+  },
+  {
+    "name": "lira-sign solid",
+    "value": "lira-sign@solid"
+  },
+  {
+    "name": "list solid",
+    "value": "list@solid"
+  },
+  {
+    "name": "list-check solid",
+    "value": "list-check@solid"
+  },
+  {
+    "name": "list-ol solid",
+    "value": "list-ol@solid"
+  },
+  {
+    "name": "list-ul solid",
+    "value": "list-ul@solid"
+  },
+  {
+    "name": "litecoin-sign solid",
+    "value": "litecoin-sign@solid"
+  },
+  {
+    "name": "location-arrow solid",
+    "value": "location-arrow@solid"
+  },
+  {
+    "name": "location-crosshairs solid",
+    "value": "location-crosshairs@solid"
+  },
+  {
+    "name": "location-dot solid",
+    "value": "location-dot@solid"
+  },
+  {
+    "name": "location-pin solid",
+    "value": "location-pin@solid"
+  },
+  {
+    "name": "location-pin-lock solid",
+    "value": "location-pin-lock@solid"
+  },
+  {
+    "name": "lock solid",
+    "value": "lock@solid"
+  },
+  {
+    "name": "lock-open solid",
+    "value": "lock-open@solid"
+  },
+  {
+    "name": "locust solid",
+    "value": "locust@solid"
+  },
+  {
+    "name": "lungs solid",
+    "value": "lungs@solid"
+  },
+  {
+    "name": "lungs-virus solid",
+    "value": "lungs-virus@solid"
+  },
+  {
+    "name": "m solid",
+    "value": "m@solid"
+  },
+  {
+    "name": "magnet solid",
+    "value": "magnet@solid"
+  },
+  {
+    "name": "magnifying-glass solid",
+    "value": "magnifying-glass@solid"
+  },
+  {
+    "name": "magnifying-glass-arrow-right solid",
+    "value": "magnifying-glass-arrow-right@solid"
+  },
+  {
+    "name": "magnifying-glass-chart solid",
+    "value": "magnifying-glass-chart@solid"
+  },
+  {
+    "name": "magnifying-glass-dollar solid",
+    "value": "magnifying-glass-dollar@solid"
+  },
+  {
+    "name": "magnifying-glass-location solid",
+    "value": "magnifying-glass-location@solid"
+  },
+  {
+    "name": "magnifying-glass-minus solid",
+    "value": "magnifying-glass-minus@solid"
+  },
+  {
+    "name": "magnifying-glass-plus solid",
+    "value": "magnifying-glass-plus@solid"
+  },
+  {
+    "name": "manat-sign solid",
+    "value": "manat-sign@solid"
+  },
+  {
+    "name": "map solid",
+    "value": "map@solid"
+  },
+  {
+    "name": "map-location solid",
+    "value": "map-location@solid"
+  },
+  {
+    "name": "map-location-dot solid",
+    "value": "map-location-dot@solid"
+  },
+  {
+    "name": "map-pin solid",
+    "value": "map-pin@solid"
+  },
+  {
+    "name": "marker solid",
+    "value": "marker@solid"
+  },
+  {
+    "name": "mars solid",
+    "value": "mars@solid"
+  },
+  {
+    "name": "mars-and-venus solid",
+    "value": "mars-and-venus@solid"
+  },
+  {
+    "name": "mars-and-venus-burst solid",
+    "value": "mars-and-venus-burst@solid"
+  },
+  {
+    "name": "mars-double solid",
+    "value": "mars-double@solid"
+  },
+  {
+    "name": "mars-stroke solid",
+    "value": "mars-stroke@solid"
+  },
+  {
+    "name": "mars-stroke-right solid",
+    "value": "mars-stroke-right@solid"
+  },
+  {
+    "name": "mars-stroke-up solid",
+    "value": "mars-stroke-up@solid"
+  },
+  {
+    "name": "martini-glass solid",
+    "value": "martini-glass@solid"
+  },
+  {
+    "name": "martini-glass-citrus solid",
+    "value": "martini-glass-citrus@solid"
+  },
+  {
+    "name": "martini-glass-empty solid",
+    "value": "martini-glass-empty@solid"
+  },
+  {
+    "name": "mask solid",
+    "value": "mask@solid"
+  },
+  {
+    "name": "mask-face solid",
+    "value": "mask-face@solid"
+  },
+  {
+    "name": "mask-ventilator solid",
+    "value": "mask-ventilator@solid"
+  },
+  {
+    "name": "masks-theater solid",
+    "value": "masks-theater@solid"
+  },
+  {
+    "name": "mattress-pillow solid",
+    "value": "mattress-pillow@solid"
+  },
+  {
+    "name": "maximize solid",
+    "value": "maximize@solid"
+  },
+  {
+    "name": "medal solid",
+    "value": "medal@solid"
+  },
+  {
+    "name": "memory solid",
+    "value": "memory@solid"
+  },
+  {
+    "name": "menorah solid",
+    "value": "menorah@solid"
+  },
+  {
+    "name": "mercury solid",
+    "value": "mercury@solid"
+  },
+  {
+    "name": "message solid",
+    "value": "message@solid"
+  },
+  {
+    "name": "meteor solid",
+    "value": "meteor@solid"
+  },
+  {
+    "name": "microchip solid",
+    "value": "microchip@solid"
+  },
+  {
+    "name": "microphone solid",
+    "value": "microphone@solid"
+  },
+  {
+    "name": "microphone-lines solid",
+    "value": "microphone-lines@solid"
+  },
+  {
+    "name": "microphone-lines-slash solid",
+    "value": "microphone-lines-slash@solid"
+  },
+  {
+    "name": "microphone-slash solid",
+    "value": "microphone-slash@solid"
+  },
+  {
+    "name": "microscope solid",
+    "value": "microscope@solid"
+  },
+  {
+    "name": "mill-sign solid",
+    "value": "mill-sign@solid"
+  },
+  {
+    "name": "minimize solid",
+    "value": "minimize@solid"
+  },
+  {
+    "name": "minus solid",
+    "value": "minus@solid"
+  },
+  {
+    "name": "mitten solid",
+    "value": "mitten@solid"
+  },
+  {
+    "name": "mobile solid",
+    "value": "mobile@solid"
+  },
+  {
+    "name": "mobile-button solid",
+    "value": "mobile-button@solid"
+  },
+  {
+    "name": "mobile-retro solid",
+    "value": "mobile-retro@solid"
+  },
+  {
+    "name": "mobile-screen solid",
+    "value": "mobile-screen@solid"
+  },
+  {
+    "name": "mobile-screen-button solid",
+    "value": "mobile-screen-button@solid"
+  },
+  {
+    "name": "money-bill solid",
+    "value": "money-bill@solid"
+  },
+  {
+    "name": "money-bill-1 solid",
+    "value": "money-bill-1@solid"
+  },
+  {
+    "name": "money-bill-1-wave solid",
+    "value": "money-bill-1-wave@solid"
+  },
+  {
+    "name": "money-bill-transfer solid",
+    "value": "money-bill-transfer@solid"
+  },
+  {
+    "name": "money-bill-trend-up solid",
+    "value": "money-bill-trend-up@solid"
+  },
+  {
+    "name": "money-bill-wave solid",
+    "value": "money-bill-wave@solid"
+  },
+  {
+    "name": "money-bill-wheat solid",
+    "value": "money-bill-wheat@solid"
+  },
+  {
+    "name": "money-bills solid",
+    "value": "money-bills@solid"
+  },
+  {
+    "name": "money-check solid",
+    "value": "money-check@solid"
+  },
+  {
+    "name": "money-check-dollar solid",
+    "value": "money-check-dollar@solid"
+  },
+  {
+    "name": "monument solid",
+    "value": "monument@solid"
+  },
+  {
+    "name": "moon solid",
+    "value": "moon@solid"
+  },
+  {
+    "name": "mortar-pestle solid",
+    "value": "mortar-pestle@solid"
+  },
+  {
+    "name": "mosque solid",
+    "value": "mosque@solid"
+  },
+  {
+    "name": "mosquito solid",
+    "value": "mosquito@solid"
+  },
+  {
+    "name": "mosquito-net solid",
+    "value": "mosquito-net@solid"
+  },
+  {
+    "name": "motorcycle solid",
+    "value": "motorcycle@solid"
+  },
+  {
+    "name": "mound solid",
+    "value": "mound@solid"
+  },
+  {
+    "name": "mountain solid",
+    "value": "mountain@solid"
+  },
+  {
+    "name": "mountain-city solid",
+    "value": "mountain-city@solid"
+  },
+  {
+    "name": "mountain-sun solid",
+    "value": "mountain-sun@solid"
+  },
+  {
+    "name": "mug-hot solid",
+    "value": "mug-hot@solid"
+  },
+  {
+    "name": "mug-saucer solid",
+    "value": "mug-saucer@solid"
+  },
+  {
+    "name": "music solid",
+    "value": "music@solid"
+  },
+  {
+    "name": "n solid",
+    "value": "n@solid"
+  },
+  {
+    "name": "naira-sign solid",
+    "value": "naira-sign@solid"
+  },
+  {
+    "name": "network-wired solid",
+    "value": "network-wired@solid"
+  },
+  {
+    "name": "neuter solid",
+    "value": "neuter@solid"
+  },
+  {
+    "name": "newspaper solid",
+    "value": "newspaper@solid"
+  },
+  {
+    "name": "not-equal solid",
+    "value": "not-equal@solid"
+  },
+  {
+    "name": "note-sticky solid",
+    "value": "note-sticky@solid"
+  },
+  {
+    "name": "notes-medical solid",
+    "value": "notes-medical@solid"
+  },
+  {
+    "name": "o solid",
+    "value": "o@solid"
+  },
+  {
+    "name": "object-group solid",
+    "value": "object-group@solid"
+  },
+  {
+    "name": "object-ungroup solid",
+    "value": "object-ungroup@solid"
+  },
+  {
+    "name": "oil-can solid",
+    "value": "oil-can@solid"
+  },
+  {
+    "name": "oil-well solid",
+    "value": "oil-well@solid"
+  },
+  {
+    "name": "om solid",
+    "value": "om@solid"
+  },
+  {
+    "name": "otter solid",
+    "value": "otter@solid"
+  },
+  {
+    "name": "outdent solid",
+    "value": "outdent@solid"
+  },
+  {
+    "name": "p solid",
+    "value": "p@solid"
+  },
+  {
+    "name": "pager solid",
+    "value": "pager@solid"
+  },
+  {
+    "name": "paint-roller solid",
+    "value": "paint-roller@solid"
+  },
+  {
+    "name": "paintbrush solid",
+    "value": "paintbrush@solid"
+  },
+  {
+    "name": "palette solid",
+    "value": "palette@solid"
+  },
+  {
+    "name": "pallet solid",
+    "value": "pallet@solid"
+  },
+  {
+    "name": "panorama solid",
+    "value": "panorama@solid"
+  },
+  {
+    "name": "paper-plane solid",
+    "value": "paper-plane@solid"
+  },
+  {
+    "name": "paperclip solid",
+    "value": "paperclip@solid"
+  },
+  {
+    "name": "parachute-box solid",
+    "value": "parachute-box@solid"
+  },
+  {
+    "name": "paragraph solid",
+    "value": "paragraph@solid"
+  },
+  {
+    "name": "passport solid",
+    "value": "passport@solid"
+  },
+  {
+    "name": "paste solid",
+    "value": "paste@solid"
+  },
+  {
+    "name": "pause solid",
+    "value": "pause@solid"
+  },
+  {
+    "name": "paw solid",
+    "value": "paw@solid"
+  },
+  {
+    "name": "peace solid",
+    "value": "peace@solid"
+  },
+  {
+    "name": "pen solid",
+    "value": "pen@solid"
+  },
+  {
+    "name": "pen-clip solid",
+    "value": "pen-clip@solid"
+  },
+  {
+    "name": "pen-fancy solid",
+    "value": "pen-fancy@solid"
+  },
+  {
+    "name": "pen-nib solid",
+    "value": "pen-nib@solid"
+  },
+  {
+    "name": "pen-ruler solid",
+    "value": "pen-ruler@solid"
+  },
+  {
+    "name": "pen-to-square solid",
+    "value": "pen-to-square@solid"
+  },
+  {
+    "name": "pencil solid",
+    "value": "pencil@solid"
+  },
+  {
+    "name": "people-arrows solid",
+    "value": "people-arrows@solid"
+  },
+  {
+    "name": "people-carry-box solid",
+    "value": "people-carry-box@solid"
+  },
+  {
+    "name": "people-group solid",
+    "value": "people-group@solid"
+  },
+  {
+    "name": "people-line solid",
+    "value": "people-line@solid"
+  },
+  {
+    "name": "people-pulling solid",
+    "value": "people-pulling@solid"
+  },
+  {
+    "name": "people-robbery solid",
+    "value": "people-robbery@solid"
+  },
+  {
+    "name": "people-roof solid",
+    "value": "people-roof@solid"
+  },
+  {
+    "name": "pepper-hot solid",
+    "value": "pepper-hot@solid"
+  },
+  {
+    "name": "percent solid",
+    "value": "percent@solid"
+  },
+  {
+    "name": "person solid",
+    "value": "person@solid"
+  },
+  {
+    "name": "person-arrow-down-to-line solid",
+    "value": "person-arrow-down-to-line@solid"
+  },
+  {
+    "name": "person-arrow-up-from-line solid",
+    "value": "person-arrow-up-from-line@solid"
+  },
+  {
+    "name": "person-biking solid",
+    "value": "person-biking@solid"
+  },
+  {
+    "name": "person-booth solid",
+    "value": "person-booth@solid"
+  },
+  {
+    "name": "person-breastfeeding solid",
+    "value": "person-breastfeeding@solid"
+  },
+  {
+    "name": "person-burst solid",
+    "value": "person-burst@solid"
+  },
+  {
+    "name": "person-cane solid",
+    "value": "person-cane@solid"
+  },
+  {
+    "name": "person-chalkboard solid",
+    "value": "person-chalkboard@solid"
+  },
+  {
+    "name": "person-circle-check solid",
+    "value": "person-circle-check@solid"
+  },
+  {
+    "name": "person-circle-exclamation solid",
+    "value": "person-circle-exclamation@solid"
+  },
+  {
+    "name": "person-circle-minus solid",
+    "value": "person-circle-minus@solid"
+  },
+  {
+    "name": "person-circle-plus solid",
+    "value": "person-circle-plus@solid"
+  },
+  {
+    "name": "person-circle-question solid",
+    "value": "person-circle-question@solid"
+  },
+  {
+    "name": "person-circle-xmark solid",
+    "value": "person-circle-xmark@solid"
+  },
+  {
+    "name": "person-digging solid",
+    "value": "person-digging@solid"
+  },
+  {
+    "name": "person-dots-from-line solid",
+    "value": "person-dots-from-line@solid"
+  },
+  {
+    "name": "person-dress solid",
+    "value": "person-dress@solid"
+  },
+  {
+    "name": "person-dress-burst solid",
+    "value": "person-dress-burst@solid"
+  },
+  {
+    "name": "person-drowning solid",
+    "value": "person-drowning@solid"
+  },
+  {
+    "name": "person-falling solid",
+    "value": "person-falling@solid"
+  },
+  {
+    "name": "person-falling-burst solid",
+    "value": "person-falling-burst@solid"
+  },
+  {
+    "name": "person-half-dress solid",
+    "value": "person-half-dress@solid"
+  },
+  {
+    "name": "person-harassing solid",
+    "value": "person-harassing@solid"
+  },
+  {
+    "name": "person-hiking solid",
+    "value": "person-hiking@solid"
+  },
+  {
+    "name": "person-military-pointing solid",
+    "value": "person-military-pointing@solid"
+  },
+  {
+    "name": "person-military-rifle solid",
+    "value": "person-military-rifle@solid"
+  },
+  {
+    "name": "person-military-to-person solid",
+    "value": "person-military-to-person@solid"
+  },
+  {
+    "name": "person-praying solid",
+    "value": "person-praying@solid"
+  },
+  {
+    "name": "person-pregnant solid",
+    "value": "person-pregnant@solid"
+  },
+  {
+    "name": "person-rays solid",
+    "value": "person-rays@solid"
+  },
+  {
+    "name": "person-rifle solid",
+    "value": "person-rifle@solid"
+  },
+  {
+    "name": "person-running solid",
+    "value": "person-running@solid"
+  },
+  {
+    "name": "person-shelter solid",
+    "value": "person-shelter@solid"
+  },
+  {
+    "name": "person-skating solid",
+    "value": "person-skating@solid"
+  },
+  {
+    "name": "person-skiing solid",
+    "value": "person-skiing@solid"
+  },
+  {
+    "name": "person-skiing-nordic solid",
+    "value": "person-skiing-nordic@solid"
+  },
+  {
+    "name": "person-snowboarding solid",
+    "value": "person-snowboarding@solid"
+  },
+  {
+    "name": "person-swimming solid",
+    "value": "person-swimming@solid"
+  },
+  {
+    "name": "person-through-window solid",
+    "value": "person-through-window@solid"
+  },
+  {
+    "name": "person-walking solid",
+    "value": "person-walking@solid"
+  },
+  {
+    "name": "person-walking-arrow-loop-left solid",
+    "value": "person-walking-arrow-loop-left@solid"
+  },
+  {
+    "name": "person-walking-arrow-right solid",
+    "value": "person-walking-arrow-right@solid"
+  },
+  {
+    "name": "person-walking-dashed-line-arrow-right solid",
+    "value": "person-walking-dashed-line-arrow-right@solid"
+  },
+  {
+    "name": "person-walking-luggage solid",
+    "value": "person-walking-luggage@solid"
+  },
+  {
+    "name": "person-walking-with-cane solid",
+    "value": "person-walking-with-cane@solid"
+  },
+  {
+    "name": "peseta-sign solid",
+    "value": "peseta-sign@solid"
+  },
+  {
+    "name": "peso-sign solid",
+    "value": "peso-sign@solid"
+  },
+  {
+    "name": "phone solid",
+    "value": "phone@solid"
+  },
+  {
+    "name": "phone-flip solid",
+    "value": "phone-flip@solid"
+  },
+  {
+    "name": "phone-slash solid",
+    "value": "phone-slash@solid"
+  },
+  {
+    "name": "phone-volume solid",
+    "value": "phone-volume@solid"
+  },
+  {
+    "name": "photo-film solid",
+    "value": "photo-film@solid"
+  },
+  {
+    "name": "piggy-bank solid",
+    "value": "piggy-bank@solid"
+  },
+  {
+    "name": "pills solid",
+    "value": "pills@solid"
+  },
+  {
+    "name": "pizza-slice solid",
+    "value": "pizza-slice@solid"
+  },
+  {
+    "name": "place-of-worship solid",
+    "value": "place-of-worship@solid"
+  },
+  {
+    "name": "plane solid",
+    "value": "plane@solid"
+  },
+  {
+    "name": "plane-arrival solid",
+    "value": "plane-arrival@solid"
+  },
+  {
+    "name": "plane-circle-check solid",
+    "value": "plane-circle-check@solid"
+  },
+  {
+    "name": "plane-circle-exclamation solid",
+    "value": "plane-circle-exclamation@solid"
+  },
+  {
+    "name": "plane-circle-xmark solid",
+    "value": "plane-circle-xmark@solid"
+  },
+  {
+    "name": "plane-departure solid",
+    "value": "plane-departure@solid"
+  },
+  {
+    "name": "plane-lock solid",
+    "value": "plane-lock@solid"
+  },
+  {
+    "name": "plane-slash solid",
+    "value": "plane-slash@solid"
+  },
+  {
+    "name": "plane-up solid",
+    "value": "plane-up@solid"
+  },
+  {
+    "name": "plant-wilt solid",
+    "value": "plant-wilt@solid"
+  },
+  {
+    "name": "plate-wheat solid",
+    "value": "plate-wheat@solid"
+  },
+  {
+    "name": "play solid",
+    "value": "play@solid"
+  },
+  {
+    "name": "plug solid",
+    "value": "plug@solid"
+  },
+  {
+    "name": "plug-circle-bolt solid",
+    "value": "plug-circle-bolt@solid"
+  },
+  {
+    "name": "plug-circle-check solid",
+    "value": "plug-circle-check@solid"
+  },
+  {
+    "name": "plug-circle-exclamation solid",
+    "value": "plug-circle-exclamation@solid"
+  },
+  {
+    "name": "plug-circle-minus solid",
+    "value": "plug-circle-minus@solid"
+  },
+  {
+    "name": "plug-circle-plus solid",
+    "value": "plug-circle-plus@solid"
+  },
+  {
+    "name": "plug-circle-xmark solid",
+    "value": "plug-circle-xmark@solid"
+  },
+  {
+    "name": "plus solid",
+    "value": "plus@solid"
+  },
+  {
+    "name": "plus-minus solid",
+    "value": "plus-minus@solid"
+  },
+  {
+    "name": "podcast solid",
+    "value": "podcast@solid"
+  },
+  {
+    "name": "poo solid",
+    "value": "poo@solid"
+  },
+  {
+    "name": "poo-storm solid",
+    "value": "poo-storm@solid"
+  },
+  {
+    "name": "poop solid",
+    "value": "poop@solid"
+  },
+  {
+    "name": "power-off solid",
+    "value": "power-off@solid"
+  },
+  {
+    "name": "prescription solid",
+    "value": "prescription@solid"
+  },
+  {
+    "name": "prescription-bottle solid",
+    "value": "prescription-bottle@solid"
+  },
+  {
+    "name": "prescription-bottle-medical solid",
+    "value": "prescription-bottle-medical@solid"
+  },
+  {
+    "name": "print solid",
+    "value": "print@solid"
+  },
+  {
+    "name": "pump-medical solid",
+    "value": "pump-medical@solid"
+  },
+  {
+    "name": "pump-soap solid",
+    "value": "pump-soap@solid"
+  },
+  {
+    "name": "puzzle-piece solid",
+    "value": "puzzle-piece@solid"
+  },
+  {
+    "name": "q solid",
+    "value": "q@solid"
+  },
+  {
+    "name": "qrcode solid",
+    "value": "qrcode@solid"
+  },
+  {
+    "name": "question solid",
+    "value": "question@solid"
+  },
+  {
+    "name": "quote-left solid",
+    "value": "quote-left@solid"
+  },
+  {
+    "name": "quote-right solid",
+    "value": "quote-right@solid"
+  },
+  {
+    "name": "r solid",
+    "value": "r@solid"
+  },
+  {
+    "name": "radiation solid",
+    "value": "radiation@solid"
+  },
+  {
+    "name": "radio solid",
+    "value": "radio@solid"
+  },
+  {
+    "name": "rainbow solid",
+    "value": "rainbow@solid"
+  },
+  {
+    "name": "ranking-star solid",
+    "value": "ranking-star@solid"
+  },
+  {
+    "name": "receipt solid",
+    "value": "receipt@solid"
+  },
+  {
+    "name": "record-vinyl solid",
+    "value": "record-vinyl@solid"
+  },
+  {
+    "name": "rectangle-ad solid",
+    "value": "rectangle-ad@solid"
+  },
+  {
+    "name": "rectangle-list solid",
+    "value": "rectangle-list@solid"
+  },
+  {
+    "name": "rectangle-xmark solid",
+    "value": "rectangle-xmark@solid"
+  },
+  {
+    "name": "recycle solid",
+    "value": "recycle@solid"
+  },
+  {
+    "name": "registered solid",
+    "value": "registered@solid"
+  },
+  {
+    "name": "repeat solid",
+    "value": "repeat@solid"
+  },
+  {
+    "name": "reply solid",
+    "value": "reply@solid"
+  },
+  {
+    "name": "reply-all solid",
+    "value": "reply-all@solid"
+  },
+  {
+    "name": "republican solid",
+    "value": "republican@solid"
+  },
+  {
+    "name": "restroom solid",
+    "value": "restroom@solid"
+  },
+  {
+    "name": "retweet solid",
+    "value": "retweet@solid"
+  },
+  {
+    "name": "ribbon solid",
+    "value": "ribbon@solid"
+  },
+  {
+    "name": "right-from-bracket solid",
+    "value": "right-from-bracket@solid"
+  },
+  {
+    "name": "right-left solid",
+    "value": "right-left@solid"
+  },
+  {
+    "name": "right-long solid",
+    "value": "right-long@solid"
+  },
+  {
+    "name": "right-to-bracket solid",
+    "value": "right-to-bracket@solid"
+  },
+  {
+    "name": "ring solid",
+    "value": "ring@solid"
+  },
+  {
+    "name": "road solid",
+    "value": "road@solid"
+  },
+  {
+    "name": "road-barrier solid",
+    "value": "road-barrier@solid"
+  },
+  {
+    "name": "road-bridge solid",
+    "value": "road-bridge@solid"
+  },
+  {
+    "name": "road-circle-check solid",
+    "value": "road-circle-check@solid"
+  },
+  {
+    "name": "road-circle-exclamation solid",
+    "value": "road-circle-exclamation@solid"
+  },
+  {
+    "name": "road-circle-xmark solid",
+    "value": "road-circle-xmark@solid"
+  },
+  {
+    "name": "road-lock solid",
+    "value": "road-lock@solid"
+  },
+  {
+    "name": "road-spikes solid",
+    "value": "road-spikes@solid"
+  },
+  {
+    "name": "robot solid",
+    "value": "robot@solid"
+  },
+  {
+    "name": "rocket solid",
+    "value": "rocket@solid"
+  },
+  {
+    "name": "rotate solid",
+    "value": "rotate@solid"
+  },
+  {
+    "name": "rotate-left solid",
+    "value": "rotate-left@solid"
+  },
+  {
+    "name": "rotate-right solid",
+    "value": "rotate-right@solid"
+  },
+  {
+    "name": "route solid",
+    "value": "route@solid"
+  },
+  {
+    "name": "rss solid",
+    "value": "rss@solid"
+  },
+  {
+    "name": "ruble-sign solid",
+    "value": "ruble-sign@solid"
+  },
+  {
+    "name": "rug solid",
+    "value": "rug@solid"
+  },
+  {
+    "name": "ruler solid",
+    "value": "ruler@solid"
+  },
+  {
+    "name": "ruler-combined solid",
+    "value": "ruler-combined@solid"
+  },
+  {
+    "name": "ruler-horizontal solid",
+    "value": "ruler-horizontal@solid"
+  },
+  {
+    "name": "ruler-vertical solid",
+    "value": "ruler-vertical@solid"
+  },
+  {
+    "name": "rupee-sign solid",
+    "value": "rupee-sign@solid"
+  },
+  {
+    "name": "rupiah-sign solid",
+    "value": "rupiah-sign@solid"
+  },
+  {
+    "name": "s solid",
+    "value": "s@solid"
+  },
+  {
+    "name": "sack-dollar solid",
+    "value": "sack-dollar@solid"
+  },
+  {
+    "name": "sack-xmark solid",
+    "value": "sack-xmark@solid"
+  },
+  {
+    "name": "sailboat solid",
+    "value": "sailboat@solid"
+  },
+  {
+    "name": "satellite solid",
+    "value": "satellite@solid"
+  },
+  {
+    "name": "satellite-dish solid",
+    "value": "satellite-dish@solid"
+  },
+  {
+    "name": "scale-balanced solid",
+    "value": "scale-balanced@solid"
+  },
+  {
+    "name": "scale-unbalanced solid",
+    "value": "scale-unbalanced@solid"
+  },
+  {
+    "name": "scale-unbalanced-flip solid",
+    "value": "scale-unbalanced-flip@solid"
+  },
+  {
+    "name": "school solid",
+    "value": "school@solid"
+  },
+  {
+    "name": "school-circle-check solid",
+    "value": "school-circle-check@solid"
+  },
+  {
+    "name": "school-circle-exclamation solid",
+    "value": "school-circle-exclamation@solid"
+  },
+  {
+    "name": "school-circle-xmark solid",
+    "value": "school-circle-xmark@solid"
+  },
+  {
+    "name": "school-flag solid",
+    "value": "school-flag@solid"
+  },
+  {
+    "name": "school-lock solid",
+    "value": "school-lock@solid"
+  },
+  {
+    "name": "scissors solid",
+    "value": "scissors@solid"
+  },
+  {
+    "name": "screwdriver solid",
+    "value": "screwdriver@solid"
+  },
+  {
+    "name": "screwdriver-wrench solid",
+    "value": "screwdriver-wrench@solid"
+  },
+  {
+    "name": "scroll solid",
+    "value": "scroll@solid"
+  },
+  {
+    "name": "scroll-torah solid",
+    "value": "scroll-torah@solid"
+  },
+  {
+    "name": "sd-card solid",
+    "value": "sd-card@solid"
+  },
+  {
+    "name": "section solid",
+    "value": "section@solid"
+  },
+  {
+    "name": "seedling solid",
+    "value": "seedling@solid"
+  },
+  {
+    "name": "server solid",
+    "value": "server@solid"
+  },
+  {
+    "name": "shapes solid",
+    "value": "shapes@solid"
+  },
+  {
+    "name": "share solid",
+    "value": "share@solid"
+  },
+  {
+    "name": "share-from-square solid",
+    "value": "share-from-square@solid"
+  },
+  {
+    "name": "share-nodes solid",
+    "value": "share-nodes@solid"
+  },
+  {
+    "name": "sheet-plastic solid",
+    "value": "sheet-plastic@solid"
+  },
+  {
+    "name": "shekel-sign solid",
+    "value": "shekel-sign@solid"
+  },
+  {
+    "name": "shield solid",
+    "value": "shield@solid"
+  },
+  {
+    "name": "shield-cat solid",
+    "value": "shield-cat@solid"
+  },
+  {
+    "name": "shield-dog solid",
+    "value": "shield-dog@solid"
+  },
+  {
+    "name": "shield-halved solid",
+    "value": "shield-halved@solid"
+  },
+  {
+    "name": "shield-heart solid",
+    "value": "shield-heart@solid"
+  },
+  {
+    "name": "shield-virus solid",
+    "value": "shield-virus@solid"
+  },
+  {
+    "name": "ship solid",
+    "value": "ship@solid"
+  },
+  {
+    "name": "shirt solid",
+    "value": "shirt@solid"
+  },
+  {
+    "name": "shoe-prints solid",
+    "value": "shoe-prints@solid"
+  },
+  {
+    "name": "shop solid",
+    "value": "shop@solid"
+  },
+  {
+    "name": "shop-lock solid",
+    "value": "shop-lock@solid"
+  },
+  {
+    "name": "shop-slash solid",
+    "value": "shop-slash@solid"
+  },
+  {
+    "name": "shower solid",
+    "value": "shower@solid"
+  },
+  {
+    "name": "shrimp solid",
+    "value": "shrimp@solid"
+  },
+  {
+    "name": "shuffle solid",
+    "value": "shuffle@solid"
+  },
+  {
+    "name": "shuttle-space solid",
+    "value": "shuttle-space@solid"
+  },
+  {
+    "name": "sign-hanging solid",
+    "value": "sign-hanging@solid"
+  },
+  {
+    "name": "signal solid",
+    "value": "signal@solid"
+  },
+  {
+    "name": "signature solid",
+    "value": "signature@solid"
+  },
+  {
+    "name": "signs-post solid",
+    "value": "signs-post@solid"
+  },
+  {
+    "name": "sim-card solid",
+    "value": "sim-card@solid"
+  },
+  {
+    "name": "sink solid",
+    "value": "sink@solid"
+  },
+  {
+    "name": "sitemap solid",
+    "value": "sitemap@solid"
+  },
+  {
+    "name": "skull solid",
+    "value": "skull@solid"
+  },
+  {
+    "name": "skull-crossbones solid",
+    "value": "skull-crossbones@solid"
+  },
+  {
+    "name": "slash solid",
+    "value": "slash@solid"
+  },
+  {
+    "name": "sleigh solid",
+    "value": "sleigh@solid"
+  },
+  {
+    "name": "sliders solid",
+    "value": "sliders@solid"
+  },
+  {
+    "name": "smog solid",
+    "value": "smog@solid"
+  },
+  {
+    "name": "smoking solid",
+    "value": "smoking@solid"
+  },
+  {
+    "name": "snowflake solid",
+    "value": "snowflake@solid"
+  },
+  {
+    "name": "snowman solid",
+    "value": "snowman@solid"
+  },
+  {
+    "name": "snowplow solid",
+    "value": "snowplow@solid"
+  },
+  {
+    "name": "soap solid",
+    "value": "soap@solid"
+  },
+  {
+    "name": "socks solid",
+    "value": "socks@solid"
+  },
+  {
+    "name": "solar-panel solid",
+    "value": "solar-panel@solid"
+  },
+  {
+    "name": "sort solid",
+    "value": "sort@solid"
+  },
+  {
+    "name": "sort-down solid",
+    "value": "sort-down@solid"
+  },
+  {
+    "name": "sort-up solid",
+    "value": "sort-up@solid"
+  },
+  {
+    "name": "spa solid",
+    "value": "spa@solid"
+  },
+  {
+    "name": "spaghetti-monster-flying solid",
+    "value": "spaghetti-monster-flying@solid"
+  },
+  {
+    "name": "spell-check solid",
+    "value": "spell-check@solid"
+  },
+  {
+    "name": "spider solid",
+    "value": "spider@solid"
+  },
+  {
+    "name": "spinner solid",
+    "value": "spinner@solid"
+  },
+  {
+    "name": "splotch solid",
+    "value": "splotch@solid"
+  },
+  {
+    "name": "spoon solid",
+    "value": "spoon@solid"
+  },
+  {
+    "name": "spray-can solid",
+    "value": "spray-can@solid"
+  },
+  {
+    "name": "spray-can-sparkles solid",
+    "value": "spray-can-sparkles@solid"
+  },
+  {
+    "name": "square solid",
+    "value": "square@solid"
+  },
+  {
+    "name": "square-arrow-up-right solid",
+    "value": "square-arrow-up-right@solid"
+  },
+  {
+    "name": "square-caret-down solid",
+    "value": "square-caret-down@solid"
+  },
+  {
+    "name": "square-caret-left solid",
+    "value": "square-caret-left@solid"
+  },
+  {
+    "name": "square-caret-right solid",
+    "value": "square-caret-right@solid"
+  },
+  {
+    "name": "square-caret-up solid",
+    "value": "square-caret-up@solid"
+  },
+  {
+    "name": "square-check solid",
+    "value": "square-check@solid"
+  },
+  {
+    "name": "square-envelope solid",
+    "value": "square-envelope@solid"
+  },
+  {
+    "name": "square-full solid",
+    "value": "square-full@solid"
+  },
+  {
+    "name": "square-h solid",
+    "value": "square-h@solid"
+  },
+  {
+    "name": "square-minus solid",
+    "value": "square-minus@solid"
+  },
+  {
+    "name": "square-nfi solid",
+    "value": "square-nfi@solid"
+  },
+  {
+    "name": "square-parking solid",
+    "value": "square-parking@solid"
+  },
+  {
+    "name": "square-pen solid",
+    "value": "square-pen@solid"
+  },
+  {
+    "name": "square-person-confined solid",
+    "value": "square-person-confined@solid"
+  },
+  {
+    "name": "square-phone solid",
+    "value": "square-phone@solid"
+  },
+  {
+    "name": "square-phone-flip solid",
+    "value": "square-phone-flip@solid"
+  },
+  {
+    "name": "square-plus solid",
+    "value": "square-plus@solid"
+  },
+  {
+    "name": "square-poll-horizontal solid",
+    "value": "square-poll-horizontal@solid"
+  },
+  {
+    "name": "square-poll-vertical solid",
+    "value": "square-poll-vertical@solid"
+  },
+  {
+    "name": "square-root-variable solid",
+    "value": "square-root-variable@solid"
+  },
+  {
+    "name": "square-rss solid",
+    "value": "square-rss@solid"
+  },
+  {
+    "name": "square-share-nodes solid",
+    "value": "square-share-nodes@solid"
+  },
+  {
+    "name": "square-up-right solid",
+    "value": "square-up-right@solid"
+  },
+  {
+    "name": "square-virus solid",
+    "value": "square-virus@solid"
+  },
+  {
+    "name": "square-xmark solid",
+    "value": "square-xmark@solid"
+  },
+  {
+    "name": "staff-snake solid",
+    "value": "staff-snake@solid"
+  },
+  {
+    "name": "stairs solid",
+    "value": "stairs@solid"
+  },
+  {
+    "name": "stamp solid",
+    "value": "stamp@solid"
+  },
+  {
+    "name": "stapler solid",
+    "value": "stapler@solid"
+  },
+  {
+    "name": "star solid",
+    "value": "star@solid"
+  },
+  {
+    "name": "star-and-crescent solid",
+    "value": "star-and-crescent@solid"
+  },
+  {
+    "name": "star-half solid",
+    "value": "star-half@solid"
+  },
+  {
+    "name": "star-half-stroke solid",
+    "value": "star-half-stroke@solid"
+  },
+  {
+    "name": "star-of-david solid",
+    "value": "star-of-david@solid"
+  },
+  {
+    "name": "star-of-life solid",
+    "value": "star-of-life@solid"
+  },
+  {
+    "name": "sterling-sign solid",
+    "value": "sterling-sign@solid"
+  },
+  {
+    "name": "stethoscope solid",
+    "value": "stethoscope@solid"
+  },
+  {
+    "name": "stop solid",
+    "value": "stop@solid"
+  },
+  {
+    "name": "stopwatch solid",
+    "value": "stopwatch@solid"
+  },
+  {
+    "name": "stopwatch-20 solid",
+    "value": "stopwatch-20@solid"
+  },
+  {
+    "name": "store solid",
+    "value": "store@solid"
+  },
+  {
+    "name": "store-slash solid",
+    "value": "store-slash@solid"
+  },
+  {
+    "name": "street-view solid",
+    "value": "street-view@solid"
+  },
+  {
+    "name": "strikethrough solid",
+    "value": "strikethrough@solid"
+  },
+  {
+    "name": "stroopwafel solid",
+    "value": "stroopwafel@solid"
+  },
+  {
+    "name": "subscript solid",
+    "value": "subscript@solid"
+  },
+  {
+    "name": "suitcase solid",
+    "value": "suitcase@solid"
+  },
+  {
+    "name": "suitcase-medical solid",
+    "value": "suitcase-medical@solid"
+  },
+  {
+    "name": "suitcase-rolling solid",
+    "value": "suitcase-rolling@solid"
+  },
+  {
+    "name": "sun solid",
+    "value": "sun@solid"
+  },
+  {
+    "name": "sun-plant-wilt solid",
+    "value": "sun-plant-wilt@solid"
+  },
+  {
+    "name": "superscript solid",
+    "value": "superscript@solid"
+  },
+  {
+    "name": "swatchbook solid",
+    "value": "swatchbook@solid"
+  },
+  {
+    "name": "synagogue solid",
+    "value": "synagogue@solid"
+  },
+  {
+    "name": "syringe solid",
+    "value": "syringe@solid"
+  },
+  {
+    "name": "t solid",
+    "value": "t@solid"
+  },
+  {
+    "name": "table solid",
+    "value": "table@solid"
+  },
+  {
+    "name": "table-cells solid",
+    "value": "table-cells@solid"
+  },
+  {
+    "name": "table-cells-large solid",
+    "value": "table-cells-large@solid"
+  },
+  {
+    "name": "table-columns solid",
+    "value": "table-columns@solid"
+  },
+  {
+    "name": "table-list solid",
+    "value": "table-list@solid"
+  },
+  {
+    "name": "table-tennis-paddle-ball solid",
+    "value": "table-tennis-paddle-ball@solid"
+  },
+  {
+    "name": "tablet solid",
+    "value": "tablet@solid"
+  },
+  {
+    "name": "tablet-button solid",
+    "value": "tablet-button@solid"
+  },
+  {
+    "name": "tablet-screen-button solid",
+    "value": "tablet-screen-button@solid"
+  },
+  {
+    "name": "tablets solid",
+    "value": "tablets@solid"
+  },
+  {
+    "name": "tachograph-digital solid",
+    "value": "tachograph-digital@solid"
+  },
+  {
+    "name": "tag solid",
+    "value": "tag@solid"
+  },
+  {
+    "name": "tags solid",
+    "value": "tags@solid"
+  },
+  {
+    "name": "tape solid",
+    "value": "tape@solid"
+  },
+  {
+    "name": "tarp solid",
+    "value": "tarp@solid"
+  },
+  {
+    "name": "tarp-droplet solid",
+    "value": "tarp-droplet@solid"
+  },
+  {
+    "name": "taxi solid",
+    "value": "taxi@solid"
+  },
+  {
+    "name": "teeth solid",
+    "value": "teeth@solid"
+  },
+  {
+    "name": "teeth-open solid",
+    "value": "teeth-open@solid"
+  },
+  {
+    "name": "temperature-arrow-down solid",
+    "value": "temperature-arrow-down@solid"
+  },
+  {
+    "name": "temperature-arrow-up solid",
+    "value": "temperature-arrow-up@solid"
+  },
+  {
+    "name": "temperature-empty solid",
+    "value": "temperature-empty@solid"
+  },
+  {
+    "name": "temperature-full solid",
+    "value": "temperature-full@solid"
+  },
+  {
+    "name": "temperature-half solid",
+    "value": "temperature-half@solid"
+  },
+  {
+    "name": "temperature-high solid",
+    "value": "temperature-high@solid"
+  },
+  {
+    "name": "temperature-low solid",
+    "value": "temperature-low@solid"
+  },
+  {
+    "name": "temperature-quarter solid",
+    "value": "temperature-quarter@solid"
+  },
+  {
+    "name": "temperature-three-quarters solid",
+    "value": "temperature-three-quarters@solid"
+  },
+  {
+    "name": "tenge-sign solid",
+    "value": "tenge-sign@solid"
+  },
+  {
+    "name": "tent solid",
+    "value": "tent@solid"
+  },
+  {
+    "name": "tent-arrow-down-to-line solid",
+    "value": "tent-arrow-down-to-line@solid"
+  },
+  {
+    "name": "tent-arrow-left-right solid",
+    "value": "tent-arrow-left-right@solid"
+  },
+  {
+    "name": "tent-arrow-turn-left solid",
+    "value": "tent-arrow-turn-left@solid"
+  },
+  {
+    "name": "tent-arrows-down solid",
+    "value": "tent-arrows-down@solid"
+  },
+  {
+    "name": "tents solid",
+    "value": "tents@solid"
+  },
+  {
+    "name": "terminal solid",
+    "value": "terminal@solid"
+  },
+  {
+    "name": "text-height solid",
+    "value": "text-height@solid"
+  },
+  {
+    "name": "text-slash solid",
+    "value": "text-slash@solid"
+  },
+  {
+    "name": "text-width solid",
+    "value": "text-width@solid"
+  },
+  {
+    "name": "thermometer solid",
+    "value": "thermometer@solid"
+  },
+  {
+    "name": "thumbs-down solid",
+    "value": "thumbs-down@solid"
+  },
+  {
+    "name": "thumbs-up solid",
+    "value": "thumbs-up@solid"
+  },
+  {
+    "name": "thumbtack solid",
+    "value": "thumbtack@solid"
+  },
+  {
+    "name": "ticket solid",
+    "value": "ticket@solid"
+  },
+  {
+    "name": "ticket-simple solid",
+    "value": "ticket-simple@solid"
+  },
+  {
+    "name": "timeline solid",
+    "value": "timeline@solid"
+  },
+  {
+    "name": "toggle-off solid",
+    "value": "toggle-off@solid"
+  },
+  {
+    "name": "toggle-on solid",
+    "value": "toggle-on@solid"
+  },
+  {
+    "name": "toilet solid",
+    "value": "toilet@solid"
+  },
+  {
+    "name": "toilet-paper solid",
+    "value": "toilet-paper@solid"
+  },
+  {
+    "name": "toilet-paper-slash solid",
+    "value": "toilet-paper-slash@solid"
+  },
+  {
+    "name": "toilet-portable solid",
+    "value": "toilet-portable@solid"
+  },
+  {
+    "name": "toilets-portable solid",
+    "value": "toilets-portable@solid"
+  },
+  {
+    "name": "toolbox solid",
+    "value": "toolbox@solid"
+  },
+  {
+    "name": "tooth solid",
+    "value": "tooth@solid"
+  },
+  {
+    "name": "torii-gate solid",
+    "value": "torii-gate@solid"
+  },
+  {
+    "name": "tornado solid",
+    "value": "tornado@solid"
+  },
+  {
+    "name": "tower-broadcast solid",
+    "value": "tower-broadcast@solid"
+  },
+  {
+    "name": "tower-cell solid",
+    "value": "tower-cell@solid"
+  },
+  {
+    "name": "tower-observation solid",
+    "value": "tower-observation@solid"
+  },
+  {
+    "name": "tractor solid",
+    "value": "tractor@solid"
+  },
+  {
+    "name": "trademark solid",
+    "value": "trademark@solid"
+  },
+  {
+    "name": "traffic-light solid",
+    "value": "traffic-light@solid"
+  },
+  {
+    "name": "trailer solid",
+    "value": "trailer@solid"
+  },
+  {
+    "name": "train solid",
+    "value": "train@solid"
+  },
+  {
+    "name": "train-subway solid",
+    "value": "train-subway@solid"
+  },
+  {
+    "name": "train-tram solid",
+    "value": "train-tram@solid"
+  },
+  {
+    "name": "transgender solid",
+    "value": "transgender@solid"
+  },
+  {
+    "name": "trash solid",
+    "value": "trash@solid"
+  },
+  {
+    "name": "trash-arrow-up solid",
+    "value": "trash-arrow-up@solid"
+  },
+  {
+    "name": "trash-can solid",
+    "value": "trash-can@solid"
+  },
+  {
+    "name": "trash-can-arrow-up solid",
+    "value": "trash-can-arrow-up@solid"
+  },
+  {
+    "name": "tree solid",
+    "value": "tree@solid"
+  },
+  {
+    "name": "tree-city solid",
+    "value": "tree-city@solid"
+  },
+  {
+    "name": "triangle-exclamation solid",
+    "value": "triangle-exclamation@solid"
+  },
+  {
+    "name": "trophy solid",
+    "value": "trophy@solid"
+  },
+  {
+    "name": "trowel solid",
+    "value": "trowel@solid"
+  },
+  {
+    "name": "trowel-bricks solid",
+    "value": "trowel-bricks@solid"
+  },
+  {
+    "name": "truck solid",
+    "value": "truck@solid"
+  },
+  {
+    "name": "truck-arrow-right solid",
+    "value": "truck-arrow-right@solid"
+  },
+  {
+    "name": "truck-droplet solid",
+    "value": "truck-droplet@solid"
+  },
+  {
+    "name": "truck-fast solid",
+    "value": "truck-fast@solid"
+  },
+  {
+    "name": "truck-field solid",
+    "value": "truck-field@solid"
+  },
+  {
+    "name": "truck-field-un solid",
+    "value": "truck-field-un@solid"
+  },
+  {
+    "name": "truck-front solid",
+    "value": "truck-front@solid"
+  },
+  {
+    "name": "truck-medical solid",
+    "value": "truck-medical@solid"
+  },
+  {
+    "name": "truck-monster solid",
+    "value": "truck-monster@solid"
+  },
+  {
+    "name": "truck-moving solid",
+    "value": "truck-moving@solid"
+  },
+  {
+    "name": "truck-pickup solid",
+    "value": "truck-pickup@solid"
+  },
+  {
+    "name": "truck-plane solid",
+    "value": "truck-plane@solid"
+  },
+  {
+    "name": "truck-ramp-box solid",
+    "value": "truck-ramp-box@solid"
+  },
+  {
+    "name": "tty solid",
+    "value": "tty@solid"
+  },
+  {
+    "name": "turkish-lira-sign solid",
+    "value": "turkish-lira-sign@solid"
+  },
+  {
+    "name": "turn-down solid",
+    "value": "turn-down@solid"
+  },
+  {
+    "name": "turn-up solid",
+    "value": "turn-up@solid"
+  },
+  {
+    "name": "tv solid",
+    "value": "tv@solid"
+  },
+  {
+    "name": "u solid",
+    "value": "u@solid"
+  },
+  {
+    "name": "umbrella solid",
+    "value": "umbrella@solid"
+  },
+  {
+    "name": "umbrella-beach solid",
+    "value": "umbrella-beach@solid"
+  },
+  {
+    "name": "underline solid",
+    "value": "underline@solid"
+  },
+  {
+    "name": "universal-access solid",
+    "value": "universal-access@solid"
+  },
+  {
+    "name": "unlock solid",
+    "value": "unlock@solid"
+  },
+  {
+    "name": "unlock-keyhole solid",
+    "value": "unlock-keyhole@solid"
+  },
+  {
+    "name": "up-down solid",
+    "value": "up-down@solid"
+  },
+  {
+    "name": "up-down-left-right solid",
+    "value": "up-down-left-right@solid"
+  },
+  {
+    "name": "up-long solid",
+    "value": "up-long@solid"
+  },
+  {
+    "name": "up-right-and-down-left-from-center solid",
+    "value": "up-right-and-down-left-from-center@solid"
+  },
+  {
+    "name": "up-right-from-square solid",
+    "value": "up-right-from-square@solid"
+  },
+  {
+    "name": "upload solid",
+    "value": "upload@solid"
+  },
+  {
+    "name": "user solid",
+    "value": "user@solid"
+  },
+  {
+    "name": "user-astronaut solid",
+    "value": "user-astronaut@solid"
+  },
+  {
+    "name": "user-check solid",
+    "value": "user-check@solid"
+  },
+  {
+    "name": "user-clock solid",
+    "value": "user-clock@solid"
+  },
+  {
+    "name": "user-doctor solid",
+    "value": "user-doctor@solid"
+  },
+  {
+    "name": "user-gear solid",
+    "value": "user-gear@solid"
+  },
+  {
+    "name": "user-graduate solid",
+    "value": "user-graduate@solid"
+  },
+  {
+    "name": "user-group solid",
+    "value": "user-group@solid"
+  },
+  {
+    "name": "user-injured solid",
+    "value": "user-injured@solid"
+  },
+  {
+    "name": "user-large solid",
+    "value": "user-large@solid"
+  },
+  {
+    "name": "user-large-slash solid",
+    "value": "user-large-slash@solid"
+  },
+  {
+    "name": "user-lock solid",
+    "value": "user-lock@solid"
+  },
+  {
+    "name": "user-minus solid",
+    "value": "user-minus@solid"
+  },
+  {
+    "name": "user-ninja solid",
+    "value": "user-ninja@solid"
+  },
+  {
+    "name": "user-nurse solid",
+    "value": "user-nurse@solid"
+  },
+  {
+    "name": "user-pen solid",
+    "value": "user-pen@solid"
+  },
+  {
+    "name": "user-plus solid",
+    "value": "user-plus@solid"
+  },
+  {
+    "name": "user-secret solid",
+    "value": "user-secret@solid"
+  },
+  {
+    "name": "user-shield solid",
+    "value": "user-shield@solid"
+  },
+  {
+    "name": "user-slash solid",
+    "value": "user-slash@solid"
+  },
+  {
+    "name": "user-tag solid",
+    "value": "user-tag@solid"
+  },
+  {
+    "name": "user-tie solid",
+    "value": "user-tie@solid"
+  },
+  {
+    "name": "user-xmark solid",
+    "value": "user-xmark@solid"
+  },
+  {
+    "name": "users solid",
+    "value": "users@solid"
+  },
+  {
+    "name": "users-between-lines solid",
+    "value": "users-between-lines@solid"
+  },
+  {
+    "name": "users-gear solid",
+    "value": "users-gear@solid"
+  },
+  {
+    "name": "users-line solid",
+    "value": "users-line@solid"
+  },
+  {
+    "name": "users-rays solid",
+    "value": "users-rays@solid"
+  },
+  {
+    "name": "users-rectangle solid",
+    "value": "users-rectangle@solid"
+  },
+  {
+    "name": "users-slash solid",
+    "value": "users-slash@solid"
+  },
+  {
+    "name": "users-viewfinder solid",
+    "value": "users-viewfinder@solid"
+  },
+  {
+    "name": "utensils solid",
+    "value": "utensils@solid"
+  },
+  {
+    "name": "v solid",
+    "value": "v@solid"
+  },
+  {
+    "name": "van-shuttle solid",
+    "value": "van-shuttle@solid"
+  },
+  {
+    "name": "vault solid",
+    "value": "vault@solid"
+  },
+  {
+    "name": "vector-square solid",
+    "value": "vector-square@solid"
+  },
+  {
+    "name": "venus solid",
+    "value": "venus@solid"
+  },
+  {
+    "name": "venus-double solid",
+    "value": "venus-double@solid"
+  },
+  {
+    "name": "venus-mars solid",
+    "value": "venus-mars@solid"
+  },
+  {
+    "name": "vest solid",
+    "value": "vest@solid"
+  },
+  {
+    "name": "vest-patches solid",
+    "value": "vest-patches@solid"
+  },
+  {
+    "name": "vial solid",
+    "value": "vial@solid"
+  },
+  {
+    "name": "vial-circle-check solid",
+    "value": "vial-circle-check@solid"
+  },
+  {
+    "name": "vial-virus solid",
+    "value": "vial-virus@solid"
+  },
+  {
+    "name": "vials solid",
+    "value": "vials@solid"
+  },
+  {
+    "name": "video solid",
+    "value": "video@solid"
+  },
+  {
+    "name": "video-slash solid",
+    "value": "video-slash@solid"
+  },
+  {
+    "name": "vihara solid",
+    "value": "vihara@solid"
+  },
+  {
+    "name": "virus solid",
+    "value": "virus@solid"
+  },
+  {
+    "name": "virus-covid solid",
+    "value": "virus-covid@solid"
+  },
+  {
+    "name": "virus-covid-slash solid",
+    "value": "virus-covid-slash@solid"
+  },
+  {
+    "name": "virus-slash solid",
+    "value": "virus-slash@solid"
+  },
+  {
+    "name": "viruses solid",
+    "value": "viruses@solid"
+  },
+  {
+    "name": "voicemail solid",
+    "value": "voicemail@solid"
+  },
+  {
+    "name": "volcano solid",
+    "value": "volcano@solid"
+  },
+  {
+    "name": "volleyball solid",
+    "value": "volleyball@solid"
+  },
+  {
+    "name": "volume-high solid",
+    "value": "volume-high@solid"
+  },
+  {
+    "name": "volume-low solid",
+    "value": "volume-low@solid"
+  },
+  {
+    "name": "volume-off solid",
+    "value": "volume-off@solid"
+  },
+  {
+    "name": "volume-xmark solid",
+    "value": "volume-xmark@solid"
+  },
+  {
+    "name": "vr-cardboard solid",
+    "value": "vr-cardboard@solid"
+  },
+  {
+    "name": "w solid",
+    "value": "w@solid"
+  },
+  {
+    "name": "walkie-talkie solid",
+    "value": "walkie-talkie@solid"
+  },
+  {
+    "name": "wallet solid",
+    "value": "wallet@solid"
+  },
+  {
+    "name": "wand-magic solid",
+    "value": "wand-magic@solid"
+  },
+  {
+    "name": "wand-magic-sparkles solid",
+    "value": "wand-magic-sparkles@solid"
+  },
+  {
+    "name": "wand-sparkles solid",
+    "value": "wand-sparkles@solid"
+  },
+  {
+    "name": "warehouse solid",
+    "value": "warehouse@solid"
+  },
+  {
+    "name": "water solid",
+    "value": "water@solid"
+  },
+  {
+    "name": "water-ladder solid",
+    "value": "water-ladder@solid"
+  },
+  {
+    "name": "wave-square solid",
+    "value": "wave-square@solid"
+  },
+  {
+    "name": "weight-hanging solid",
+    "value": "weight-hanging@solid"
+  },
+  {
+    "name": "weight-scale solid",
+    "value": "weight-scale@solid"
+  },
+  {
+    "name": "wheat-awn solid",
+    "value": "wheat-awn@solid"
+  },
+  {
+    "name": "wheat-awn-circle-exclamation solid",
+    "value": "wheat-awn-circle-exclamation@solid"
+  },
+  {
+    "name": "wheelchair solid",
+    "value": "wheelchair@solid"
+  },
+  {
+    "name": "wheelchair-move solid",
+    "value": "wheelchair-move@solid"
+  },
+  {
+    "name": "whiskey-glass solid",
+    "value": "whiskey-glass@solid"
+  },
+  {
+    "name": "wifi solid",
+    "value": "wifi@solid"
+  },
+  {
+    "name": "wind solid",
+    "value": "wind@solid"
+  },
+  {
+    "name": "window-maximize solid",
+    "value": "window-maximize@solid"
+  },
+  {
+    "name": "window-minimize solid",
+    "value": "window-minimize@solid"
+  },
+  {
+    "name": "window-restore solid",
+    "value": "window-restore@solid"
+  },
+  {
+    "name": "wine-bottle solid",
+    "value": "wine-bottle@solid"
+  },
+  {
+    "name": "wine-glass solid",
+    "value": "wine-glass@solid"
+  },
+  {
+    "name": "wine-glass-empty solid",
+    "value": "wine-glass-empty@solid"
+  },
+  {
+    "name": "won-sign solid",
+    "value": "won-sign@solid"
+  },
+  {
+    "name": "worm solid",
+    "value": "worm@solid"
+  },
+  {
+    "name": "wrench solid",
+    "value": "wrench@solid"
+  },
+  {
+    "name": "x solid",
+    "value": "x@solid"
+  },
+  {
+    "name": "x-ray solid",
+    "value": "x-ray@solid"
+  },
+  {
+    "name": "xmark solid",
+    "value": "xmark@solid"
+  },
+  {
+    "name": "xmarks-lines solid",
+    "value": "xmarks-lines@solid"
+  },
+  {
+    "name": "y solid",
+    "value": "y@solid"
+  },
+  {
+    "name": "yen-sign solid",
+    "value": "yen-sign@solid"
+  },
+  {
+    "name": "yin-yang solid",
+    "value": "yin-yang@solid"
+  },
+  {
+    "name": "z solid",
+    "value": "z@solid"
+  },
+  {
+    "name": "42-group brands",
+    "value": "42-group@brands"
+  },
+  {
+    "name": "500px brands",
+    "value": "500px@brands"
+  },
+  {
+    "name": "accessible-icon brands",
+    "value": "accessible-icon@brands"
+  },
+  {
+    "name": "accusoft brands",
+    "value": "accusoft@brands"
+  },
+  {
+    "name": "adn brands",
+    "value": "adn@brands"
+  },
+  {
+    "name": "adversal brands",
+    "value": "adversal@brands"
+  },
+  {
+    "name": "affiliatetheme brands",
+    "value": "affiliatetheme@brands"
+  },
+  {
+    "name": "airbnb brands",
+    "value": "airbnb@brands"
+  },
+  {
+    "name": "algolia brands",
+    "value": "algolia@brands"
+  },
+  {
+    "name": "alipay brands",
+    "value": "alipay@brands"
+  },
+  {
+    "name": "amazon brands",
+    "value": "amazon@brands"
+  },
+  {
+    "name": "amazon-pay brands",
+    "value": "amazon-pay@brands"
+  },
+  {
+    "name": "amilia brands",
+    "value": "amilia@brands"
+  },
+  {
+    "name": "android brands",
+    "value": "android@brands"
+  },
+  {
+    "name": "angellist brands",
+    "value": "angellist@brands"
+  },
+  {
+    "name": "angrycreative brands",
+    "value": "angrycreative@brands"
+  },
+  {
+    "name": "angular brands",
+    "value": "angular@brands"
+  },
+  {
+    "name": "app-store brands",
+    "value": "app-store@brands"
+  },
+  {
+    "name": "app-store-ios brands",
+    "value": "app-store-ios@brands"
+  },
+  {
+    "name": "apper brands",
+    "value": "apper@brands"
+  },
+  {
+    "name": "apple brands",
+    "value": "apple@brands"
+  },
+  {
+    "name": "apple-pay brands",
+    "value": "apple-pay@brands"
+  },
+  {
+    "name": "artstation brands",
+    "value": "artstation@brands"
+  },
+  {
+    "name": "asymmetrik brands",
+    "value": "asymmetrik@brands"
+  },
+  {
+    "name": "atlassian brands",
+    "value": "atlassian@brands"
+  },
+  {
+    "name": "audible brands",
+    "value": "audible@brands"
+  },
+  {
+    "name": "autoprefixer brands",
+    "value": "autoprefixer@brands"
+  },
+  {
+    "name": "avianex brands",
+    "value": "avianex@brands"
+  },
+  {
+    "name": "aviato brands",
+    "value": "aviato@brands"
+  },
+  {
+    "name": "aws brands",
+    "value": "aws@brands"
+  },
+  {
+    "name": "bandcamp brands",
+    "value": "bandcamp@brands"
+  },
+  {
+    "name": "battle-net brands",
+    "value": "battle-net@brands"
+  },
+  {
+    "name": "behance brands",
+    "value": "behance@brands"
+  },
+  {
+    "name": "bilibili brands",
+    "value": "bilibili@brands"
+  },
+  {
+    "name": "bimobject brands",
+    "value": "bimobject@brands"
+  },
+  {
+    "name": "bitbucket brands",
+    "value": "bitbucket@brands"
+  },
+  {
+    "name": "bitcoin brands",
+    "value": "bitcoin@brands"
+  },
+  {
+    "name": "bity brands",
+    "value": "bity@brands"
+  },
+  {
+    "name": "black-tie brands",
+    "value": "black-tie@brands"
+  },
+  {
+    "name": "blackberry brands",
+    "value": "blackberry@brands"
+  },
+  {
+    "name": "blogger brands",
+    "value": "blogger@brands"
+  },
+  {
+    "name": "blogger-b brands",
+    "value": "blogger-b@brands"
+  },
+  {
+    "name": "bluetooth brands",
+    "value": "bluetooth@brands"
+  },
+  {
+    "name": "bluetooth-b brands",
+    "value": "bluetooth-b@brands"
+  },
+  {
+    "name": "bootstrap brands",
+    "value": "bootstrap@brands"
+  },
+  {
+    "name": "bots brands",
+    "value": "bots@brands"
+  },
+  {
+    "name": "btc brands",
+    "value": "btc@brands"
+  },
+  {
+    "name": "buffer brands",
+    "value": "buffer@brands"
+  },
+  {
+    "name": "buromobelexperte brands",
+    "value": "buromobelexperte@brands"
+  },
+  {
+    "name": "buy-n-large brands",
+    "value": "buy-n-large@brands"
+  },
+  {
+    "name": "buysellads brands",
+    "value": "buysellads@brands"
+  },
+  {
+    "name": "canadian-maple-leaf brands",
+    "value": "canadian-maple-leaf@brands"
+  },
+  {
+    "name": "cc-amazon-pay brands",
+    "value": "cc-amazon-pay@brands"
+  },
+  {
+    "name": "cc-amex brands",
+    "value": "cc-amex@brands"
+  },
+  {
+    "name": "cc-apple-pay brands",
+    "value": "cc-apple-pay@brands"
+  },
+  {
+    "name": "cc-diners-club brands",
+    "value": "cc-diners-club@brands"
+  },
+  {
+    "name": "cc-discover brands",
+    "value": "cc-discover@brands"
+  },
+  {
+    "name": "cc-jcb brands",
+    "value": "cc-jcb@brands"
+  },
+  {
+    "name": "cc-mastercard brands",
+    "value": "cc-mastercard@brands"
+  },
+  {
+    "name": "cc-paypal brands",
+    "value": "cc-paypal@brands"
+  },
+  {
+    "name": "cc-stripe brands",
+    "value": "cc-stripe@brands"
+  },
+  {
+    "name": "cc-visa brands",
+    "value": "cc-visa@brands"
+  },
+  {
+    "name": "centercode brands",
+    "value": "centercode@brands"
+  },
+  {
+    "name": "centos brands",
+    "value": "centos@brands"
+  },
+  {
+    "name": "chrome brands",
+    "value": "chrome@brands"
+  },
+  {
+    "name": "chromecast brands",
+    "value": "chromecast@brands"
+  },
+  {
+    "name": "cloudflare brands",
+    "value": "cloudflare@brands"
+  },
+  {
+    "name": "cloudscale brands",
+    "value": "cloudscale@brands"
+  },
+  {
+    "name": "cloudsmith brands",
+    "value": "cloudsmith@brands"
+  },
+  {
+    "name": "cloudversify brands",
+    "value": "cloudversify@brands"
+  },
+  {
+    "name": "cmplid brands",
+    "value": "cmplid@brands"
+  },
+  {
+    "name": "codepen brands",
+    "value": "codepen@brands"
+  },
+  {
+    "name": "codiepie brands",
+    "value": "codiepie@brands"
+  },
+  {
+    "name": "confluence brands",
+    "value": "confluence@brands"
+  },
+  {
+    "name": "connectdevelop brands",
+    "value": "connectdevelop@brands"
+  },
+  {
+    "name": "contao brands",
+    "value": "contao@brands"
+  },
+  {
+    "name": "cotton-bureau brands",
+    "value": "cotton-bureau@brands"
+  },
+  {
+    "name": "cpanel brands",
+    "value": "cpanel@brands"
+  },
+  {
+    "name": "creative-commons brands",
+    "value": "creative-commons@brands"
+  },
+  {
+    "name": "creative-commons-by brands",
+    "value": "creative-commons-by@brands"
+  },
+  {
+    "name": "creative-commons-nc brands",
+    "value": "creative-commons-nc@brands"
+  },
+  {
+    "name": "creative-commons-nc-eu brands",
+    "value": "creative-commons-nc-eu@brands"
+  },
+  {
+    "name": "creative-commons-nc-jp brands",
+    "value": "creative-commons-nc-jp@brands"
+  },
+  {
+    "name": "creative-commons-nd brands",
+    "value": "creative-commons-nd@brands"
+  },
+  {
+    "name": "creative-commons-pd brands",
+    "value": "creative-commons-pd@brands"
+  },
+  {
+    "name": "creative-commons-pd-alt brands",
+    "value": "creative-commons-pd-alt@brands"
+  },
+  {
+    "name": "creative-commons-remix brands",
+    "value": "creative-commons-remix@brands"
+  },
+  {
+    "name": "creative-commons-sa brands",
+    "value": "creative-commons-sa@brands"
+  },
+  {
+    "name": "creative-commons-sampling brands",
+    "value": "creative-commons-sampling@brands"
+  },
+  {
+    "name": "creative-commons-sampling-plus brands",
+    "value": "creative-commons-sampling-plus@brands"
+  },
+  {
+    "name": "creative-commons-share brands",
+    "value": "creative-commons-share@brands"
+  },
+  {
+    "name": "creative-commons-zero brands",
+    "value": "creative-commons-zero@brands"
+  },
+  {
+    "name": "critical-role brands",
+    "value": "critical-role@brands"
+  },
+  {
+    "name": "css3 brands",
+    "value": "css3@brands"
+  },
+  {
+    "name": "css3-alt brands",
+    "value": "css3-alt@brands"
+  },
+  {
+    "name": "cuttlefish brands",
+    "value": "cuttlefish@brands"
+  },
+  {
+    "name": "d-and-d brands",
+    "value": "d-and-d@brands"
+  },
+  {
+    "name": "d-and-d-beyond brands",
+    "value": "d-and-d-beyond@brands"
+  },
+  {
+    "name": "dailymotion brands",
+    "value": "dailymotion@brands"
+  },
+  {
+    "name": "dashcube brands",
+    "value": "dashcube@brands"
+  },
+  {
+    "name": "deezer brands",
+    "value": "deezer@brands"
+  },
+  {
+    "name": "delicious brands",
+    "value": "delicious@brands"
+  },
+  {
+    "name": "deploydog brands",
+    "value": "deploydog@brands"
+  },
+  {
+    "name": "deskpro brands",
+    "value": "deskpro@brands"
+  },
+  {
+    "name": "dev brands",
+    "value": "dev@brands"
+  },
+  {
+    "name": "deviantart brands",
+    "value": "deviantart@brands"
+  },
+  {
+    "name": "dhl brands",
+    "value": "dhl@brands"
+  },
+  {
+    "name": "diaspora brands",
+    "value": "diaspora@brands"
+  },
+  {
+    "name": "digg brands",
+    "value": "digg@brands"
+  },
+  {
+    "name": "digital-ocean brands",
+    "value": "digital-ocean@brands"
+  },
+  {
+    "name": "discord brands",
+    "value": "discord@brands"
+  },
+  {
+    "name": "discourse brands",
+    "value": "discourse@brands"
+  },
+  {
+    "name": "dochub brands",
+    "value": "dochub@brands"
+  },
+  {
+    "name": "docker brands",
+    "value": "docker@brands"
+  },
+  {
+    "name": "draft2digital brands",
+    "value": "draft2digital@brands"
+  },
+  {
+    "name": "dribbble brands",
+    "value": "dribbble@brands"
+  },
+  {
+    "name": "dropbox brands",
+    "value": "dropbox@brands"
+  },
+  {
+    "name": "drupal brands",
+    "value": "drupal@brands"
+  },
+  {
+    "name": "dyalog brands",
+    "value": "dyalog@brands"
+  },
+  {
+    "name": "earlybirds brands",
+    "value": "earlybirds@brands"
+  },
+  {
+    "name": "ebay brands",
+    "value": "ebay@brands"
+  },
+  {
+    "name": "edge brands",
+    "value": "edge@brands"
+  },
+  {
+    "name": "edge-legacy brands",
+    "value": "edge-legacy@brands"
+  },
+  {
+    "name": "elementor brands",
+    "value": "elementor@brands"
+  },
+  {
+    "name": "ello brands",
+    "value": "ello@brands"
+  },
+  {
+    "name": "ember brands",
+    "value": "ember@brands"
+  },
+  {
+    "name": "empire brands",
+    "value": "empire@brands"
+  },
+  {
+    "name": "envira brands",
+    "value": "envira@brands"
+  },
+  {
+    "name": "erlang brands",
+    "value": "erlang@brands"
+  },
+  {
+    "name": "ethereum brands",
+    "value": "ethereum@brands"
+  },
+  {
+    "name": "etsy brands",
+    "value": "etsy@brands"
+  },
+  {
+    "name": "evernote brands",
+    "value": "evernote@brands"
+  },
+  {
+    "name": "expeditedssl brands",
+    "value": "expeditedssl@brands"
+  },
+  {
+    "name": "facebook brands",
+    "value": "facebook@brands"
+  },
+  {
+    "name": "facebook-f brands",
+    "value": "facebook-f@brands"
+  },
+  {
+    "name": "facebook-messenger brands",
+    "value": "facebook-messenger@brands"
+  },
+  {
+    "name": "fantasy-flight-games brands",
+    "value": "fantasy-flight-games@brands"
+  },
+  {
+    "name": "fedex brands",
+    "value": "fedex@brands"
+  },
+  {
+    "name": "fedora brands",
+    "value": "fedora@brands"
+  },
+  {
+    "name": "figma brands",
+    "value": "figma@brands"
+  },
+  {
+    "name": "firefox brands",
+    "value": "firefox@brands"
+  },
+  {
+    "name": "firefox-browser brands",
+    "value": "firefox-browser@brands"
+  },
+  {
+    "name": "first-order brands",
+    "value": "first-order@brands"
+  },
+  {
+    "name": "first-order-alt brands",
+    "value": "first-order-alt@brands"
+  },
+  {
+    "name": "firstdraft brands",
+    "value": "firstdraft@brands"
+  },
+  {
+    "name": "flickr brands",
+    "value": "flickr@brands"
+  },
+  {
+    "name": "flipboard brands",
+    "value": "flipboard@brands"
+  },
+  {
+    "name": "fly brands",
+    "value": "fly@brands"
+  },
+  {
+    "name": "font-awesome brands",
+    "value": "font-awesome@brands"
+  },
+  {
+    "name": "fonticons brands",
+    "value": "fonticons@brands"
+  },
+  {
+    "name": "fonticons-fi brands",
+    "value": "fonticons-fi@brands"
+  },
+  {
+    "name": "fort-awesome brands",
+    "value": "fort-awesome@brands"
+  },
+  {
+    "name": "fort-awesome-alt brands",
+    "value": "fort-awesome-alt@brands"
+  },
+  {
+    "name": "forumbee brands",
+    "value": "forumbee@brands"
+  },
+  {
+    "name": "foursquare brands",
+    "value": "foursquare@brands"
+  },
+  {
+    "name": "free-code-camp brands",
+    "value": "free-code-camp@brands"
+  },
+  {
+    "name": "freebsd brands",
+    "value": "freebsd@brands"
+  },
+  {
+    "name": "fulcrum brands",
+    "value": "fulcrum@brands"
+  },
+  {
+    "name": "galactic-republic brands",
+    "value": "galactic-republic@brands"
+  },
+  {
+    "name": "galactic-senate brands",
+    "value": "galactic-senate@brands"
+  },
+  {
+    "name": "get-pocket brands",
+    "value": "get-pocket@brands"
+  },
+  {
+    "name": "gg brands",
+    "value": "gg@brands"
+  },
+  {
+    "name": "gg-circle brands",
+    "value": "gg-circle@brands"
+  },
+  {
+    "name": "git brands",
+    "value": "git@brands"
+  },
+  {
+    "name": "git-alt brands",
+    "value": "git-alt@brands"
+  },
+  {
+    "name": "github brands",
+    "value": "github@brands"
+  },
+  {
+    "name": "github-alt brands",
+    "value": "github-alt@brands"
+  },
+  {
+    "name": "gitkraken brands",
+    "value": "gitkraken@brands"
+  },
+  {
+    "name": "gitlab brands",
+    "value": "gitlab@brands"
+  },
+  {
+    "name": "gitter brands",
+    "value": "gitter@brands"
+  },
+  {
+    "name": "glide brands",
+    "value": "glide@brands"
+  },
+  {
+    "name": "glide-g brands",
+    "value": "glide-g@brands"
+  },
+  {
+    "name": "gofore brands",
+    "value": "gofore@brands"
+  },
+  {
+    "name": "golang brands",
+    "value": "golang@brands"
+  },
+  {
+    "name": "goodreads brands",
+    "value": "goodreads@brands"
+  },
+  {
+    "name": "goodreads-g brands",
+    "value": "goodreads-g@brands"
+  },
+  {
+    "name": "google brands",
+    "value": "google@brands"
+  },
+  {
+    "name": "google-drive brands",
+    "value": "google-drive@brands"
+  },
+  {
+    "name": "google-pay brands",
+    "value": "google-pay@brands"
+  },
+  {
+    "name": "google-play brands",
+    "value": "google-play@brands"
+  },
+  {
+    "name": "google-plus brands",
+    "value": "google-plus@brands"
+  },
+  {
+    "name": "google-plus-g brands",
+    "value": "google-plus-g@brands"
+  },
+  {
+    "name": "google-wallet brands",
+    "value": "google-wallet@brands"
+  },
+  {
+    "name": "gratipay brands",
+    "value": "gratipay@brands"
+  },
+  {
+    "name": "grav brands",
+    "value": "grav@brands"
+  },
+  {
+    "name": "gripfire brands",
+    "value": "gripfire@brands"
+  },
+  {
+    "name": "grunt brands",
+    "value": "grunt@brands"
+  },
+  {
+    "name": "guilded brands",
+    "value": "guilded@brands"
+  },
+  {
+    "name": "gulp brands",
+    "value": "gulp@brands"
+  },
+  {
+    "name": "hacker-news brands",
+    "value": "hacker-news@brands"
+  },
+  {
+    "name": "hackerrank brands",
+    "value": "hackerrank@brands"
+  },
+  {
+    "name": "hashnode brands",
+    "value": "hashnode@brands"
+  },
+  {
+    "name": "hips brands",
+    "value": "hips@brands"
+  },
+  {
+    "name": "hire-a-helper brands",
+    "value": "hire-a-helper@brands"
+  },
+  {
+    "name": "hive brands",
+    "value": "hive@brands"
+  },
+  {
+    "name": "hooli brands",
+    "value": "hooli@brands"
+  },
+  {
+    "name": "hornbill brands",
+    "value": "hornbill@brands"
+  },
+  {
+    "name": "hotjar brands",
+    "value": "hotjar@brands"
+  },
+  {
+    "name": "houzz brands",
+    "value": "houzz@brands"
+  },
+  {
+    "name": "html5 brands",
+    "value": "html5@brands"
+  },
+  {
+    "name": "hubspot brands",
+    "value": "hubspot@brands"
+  },
+  {
+    "name": "ideal brands",
+    "value": "ideal@brands"
+  },
+  {
+    "name": "imdb brands",
+    "value": "imdb@brands"
+  },
+  {
+    "name": "instagram brands",
+    "value": "instagram@brands"
+  },
+  {
+    "name": "instalod brands",
+    "value": "instalod@brands"
+  },
+  {
+    "name": "intercom brands",
+    "value": "intercom@brands"
+  },
+  {
+    "name": "internet-explorer brands",
+    "value": "internet-explorer@brands"
+  },
+  {
+    "name": "invision brands",
+    "value": "invision@brands"
+  },
+  {
+    "name": "ioxhost brands",
+    "value": "ioxhost@brands"
+  },
+  {
+    "name": "itch-io brands",
+    "value": "itch-io@brands"
+  },
+  {
+    "name": "itunes brands",
+    "value": "itunes@brands"
+  },
+  {
+    "name": "itunes-note brands",
+    "value": "itunes-note@brands"
+  },
+  {
+    "name": "java brands",
+    "value": "java@brands"
+  },
+  {
+    "name": "jedi-order brands",
+    "value": "jedi-order@brands"
+  },
+  {
+    "name": "jenkins brands",
+    "value": "jenkins@brands"
+  },
+  {
+    "name": "jira brands",
+    "value": "jira@brands"
+  },
+  {
+    "name": "joget brands",
+    "value": "joget@brands"
+  },
+  {
+    "name": "joomla brands",
+    "value": "joomla@brands"
+  },
+  {
+    "name": "js brands",
+    "value": "js@brands"
+  },
+  {
+    "name": "jsfiddle brands",
+    "value": "jsfiddle@brands"
+  },
+  {
+    "name": "kaggle brands",
+    "value": "kaggle@brands"
+  },
+  {
+    "name": "keybase brands",
+    "value": "keybase@brands"
+  },
+  {
+    "name": "keycdn brands",
+    "value": "keycdn@brands"
+  },
+  {
+    "name": "kickstarter brands",
+    "value": "kickstarter@brands"
+  },
+  {
+    "name": "kickstarter-k brands",
+    "value": "kickstarter-k@brands"
+  },
+  {
+    "name": "korvue brands",
+    "value": "korvue@brands"
+  },
+  {
+    "name": "laravel brands",
+    "value": "laravel@brands"
+  },
+  {
+    "name": "lastfm brands",
+    "value": "lastfm@brands"
+  },
+  {
+    "name": "leanpub brands",
+    "value": "leanpub@brands"
+  },
+  {
+    "name": "less brands",
+    "value": "less@brands"
+  },
+  {
+    "name": "line brands",
+    "value": "line@brands"
+  },
+  {
+    "name": "linkedin brands",
+    "value": "linkedin@brands"
+  },
+  {
+    "name": "linkedin-in brands",
+    "value": "linkedin-in@brands"
+  },
+  {
+    "name": "linode brands",
+    "value": "linode@brands"
+  },
+  {
+    "name": "linux brands",
+    "value": "linux@brands"
+  },
+  {
+    "name": "lyft brands",
+    "value": "lyft@brands"
+  },
+  {
+    "name": "magento brands",
+    "value": "magento@brands"
+  },
+  {
+    "name": "mailchimp brands",
+    "value": "mailchimp@brands"
+  },
+  {
+    "name": "mandalorian brands",
+    "value": "mandalorian@brands"
+  },
+  {
+    "name": "markdown brands",
+    "value": "markdown@brands"
+  },
+  {
+    "name": "mastodon brands",
+    "value": "mastodon@brands"
+  },
+  {
+    "name": "maxcdn brands",
+    "value": "maxcdn@brands"
+  },
+  {
+    "name": "mdb brands",
+    "value": "mdb@brands"
+  },
+  {
+    "name": "medapps brands",
+    "value": "medapps@brands"
+  },
+  {
+    "name": "medium brands",
+    "value": "medium@brands"
+  },
+  {
+    "name": "medrt brands",
+    "value": "medrt@brands"
+  },
+  {
+    "name": "meetup brands",
+    "value": "meetup@brands"
+  },
+  {
+    "name": "megaport brands",
+    "value": "megaport@brands"
+  },
+  {
+    "name": "mendeley brands",
+    "value": "mendeley@brands"
+  },
+  {
+    "name": "meta brands",
+    "value": "meta@brands"
+  },
+  {
+    "name": "microblog brands",
+    "value": "microblog@brands"
+  },
+  {
+    "name": "microsoft brands",
+    "value": "microsoft@brands"
+  },
+  {
+    "name": "mix brands",
+    "value": "mix@brands"
+  },
+  {
+    "name": "mixcloud brands",
+    "value": "mixcloud@brands"
+  },
+  {
+    "name": "mixer brands",
+    "value": "mixer@brands"
+  },
+  {
+    "name": "mizuni brands",
+    "value": "mizuni@brands"
+  },
+  {
+    "name": "modx brands",
+    "value": "modx@brands"
+  },
+  {
+    "name": "monero brands",
+    "value": "monero@brands"
+  },
+  {
+    "name": "napster brands",
+    "value": "napster@brands"
+  },
+  {
+    "name": "neos brands",
+    "value": "neos@brands"
+  },
+  {
+    "name": "nfc-directional brands",
+    "value": "nfc-directional@brands"
+  },
+  {
+    "name": "nfc-symbol brands",
+    "value": "nfc-symbol@brands"
+  },
+  {
+    "name": "nimblr brands",
+    "value": "nimblr@brands"
+  },
+  {
+    "name": "node brands",
+    "value": "node@brands"
+  },
+  {
+    "name": "node-js brands",
+    "value": "node-js@brands"
+  },
+  {
+    "name": "npm brands",
+    "value": "npm@brands"
+  },
+  {
+    "name": "ns8 brands",
+    "value": "ns8@brands"
+  },
+  {
+    "name": "nutritionix brands",
+    "value": "nutritionix@brands"
+  },
+  {
+    "name": "octopus-deploy brands",
+    "value": "octopus-deploy@brands"
+  },
+  {
+    "name": "odnoklassniki brands",
+    "value": "odnoklassniki@brands"
+  },
+  {
+    "name": "old-republic brands",
+    "value": "old-republic@brands"
+  },
+  {
+    "name": "opencart brands",
+    "value": "opencart@brands"
+  },
+  {
+    "name": "openid brands",
+    "value": "openid@brands"
+  },
+  {
+    "name": "opera brands",
+    "value": "opera@brands"
+  },
+  {
+    "name": "optin-monster brands",
+    "value": "optin-monster@brands"
+  },
+  {
+    "name": "orcid brands",
+    "value": "orcid@brands"
+  },
+  {
+    "name": "osi brands",
+    "value": "osi@brands"
+  },
+  {
+    "name": "padlet brands",
+    "value": "padlet@brands"
+  },
+  {
+    "name": "page4 brands",
+    "value": "page4@brands"
+  },
+  {
+    "name": "pagelines brands",
+    "value": "pagelines@brands"
+  },
+  {
+    "name": "palfed brands",
+    "value": "palfed@brands"
+  },
+  {
+    "name": "patreon brands",
+    "value": "patreon@brands"
+  },
+  {
+    "name": "paypal brands",
+    "value": "paypal@brands"
+  },
+  {
+    "name": "perbyte brands",
+    "value": "perbyte@brands"
+  },
+  {
+    "name": "periscope brands",
+    "value": "periscope@brands"
+  },
+  {
+    "name": "phabricator brands",
+    "value": "phabricator@brands"
+  },
+  {
+    "name": "phoenix-framework brands",
+    "value": "phoenix-framework@brands"
+  },
+  {
+    "name": "phoenix-squadron brands",
+    "value": "phoenix-squadron@brands"
+  },
+  {
+    "name": "php brands",
+    "value": "php@brands"
+  },
+  {
+    "name": "pied-piper brands",
+    "value": "pied-piper@brands"
+  },
+  {
+    "name": "pied-piper-alt brands",
+    "value": "pied-piper-alt@brands"
+  },
+  {
+    "name": "pied-piper-hat brands",
+    "value": "pied-piper-hat@brands"
+  },
+  {
+    "name": "pied-piper-pp brands",
+    "value": "pied-piper-pp@brands"
+  },
+  {
+    "name": "pinterest brands",
+    "value": "pinterest@brands"
+  },
+  {
+    "name": "pinterest-p brands",
+    "value": "pinterest-p@brands"
+  },
+  {
+    "name": "pix brands",
+    "value": "pix@brands"
+  },
+  {
+    "name": "playstation brands",
+    "value": "playstation@brands"
+  },
+  {
+    "name": "product-hunt brands",
+    "value": "product-hunt@brands"
+  },
+  {
+    "name": "pushed brands",
+    "value": "pushed@brands"
+  },
+  {
+    "name": "python brands",
+    "value": "python@brands"
+  },
+  {
+    "name": "qq brands",
+    "value": "qq@brands"
+  },
+  {
+    "name": "quinscape brands",
+    "value": "quinscape@brands"
+  },
+  {
+    "name": "quora brands",
+    "value": "quora@brands"
+  },
+  {
+    "name": "r-project brands",
+    "value": "r-project@brands"
+  },
+  {
+    "name": "raspberry-pi brands",
+    "value": "raspberry-pi@brands"
+  },
+  {
+    "name": "ravelry brands",
+    "value": "ravelry@brands"
+  },
+  {
+    "name": "react brands",
+    "value": "react@brands"
+  },
+  {
+    "name": "reacteurope brands",
+    "value": "reacteurope@brands"
+  },
+  {
+    "name": "readme brands",
+    "value": "readme@brands"
+  },
+  {
+    "name": "rebel brands",
+    "value": "rebel@brands"
+  },
+  {
+    "name": "red-river brands",
+    "value": "red-river@brands"
+  },
+  {
+    "name": "reddit brands",
+    "value": "reddit@brands"
+  },
+  {
+    "name": "reddit-alien brands",
+    "value": "reddit-alien@brands"
+  },
+  {
+    "name": "redhat brands",
+    "value": "redhat@brands"
+  },
+  {
+    "name": "renren brands",
+    "value": "renren@brands"
+  },
+  {
+    "name": "replyd brands",
+    "value": "replyd@brands"
+  },
+  {
+    "name": "researchgate brands",
+    "value": "researchgate@brands"
+  },
+  {
+    "name": "resolving brands",
+    "value": "resolving@brands"
+  },
+  {
+    "name": "rev brands",
+    "value": "rev@brands"
+  },
+  {
+    "name": "rocketchat brands",
+    "value": "rocketchat@brands"
+  },
+  {
+    "name": "rockrms brands",
+    "value": "rockrms@brands"
+  },
+  {
+    "name": "rust brands",
+    "value": "rust@brands"
+  },
+  {
+    "name": "safari brands",
+    "value": "safari@brands"
+  },
+  {
+    "name": "salesforce brands",
+    "value": "salesforce@brands"
+  },
+  {
+    "name": "sass brands",
+    "value": "sass@brands"
+  },
+  {
+    "name": "schlix brands",
+    "value": "schlix@brands"
+  },
+  {
+    "name": "screenpal brands",
+    "value": "screenpal@brands"
+  },
+  {
+    "name": "scribd brands",
+    "value": "scribd@brands"
+  },
+  {
+    "name": "searchengin brands",
+    "value": "searchengin@brands"
+  },
+  {
+    "name": "sellcast brands",
+    "value": "sellcast@brands"
+  },
+  {
+    "name": "sellsy brands",
+    "value": "sellsy@brands"
+  },
+  {
+    "name": "servicestack brands",
+    "value": "servicestack@brands"
+  },
+  {
+    "name": "shirtsinbulk brands",
+    "value": "shirtsinbulk@brands"
+  },
+  {
+    "name": "shopify brands",
+    "value": "shopify@brands"
+  },
+  {
+    "name": "shopware brands",
+    "value": "shopware@brands"
+  },
+  {
+    "name": "simplybuilt brands",
+    "value": "simplybuilt@brands"
+  },
+  {
+    "name": "sistrix brands",
+    "value": "sistrix@brands"
+  },
+  {
+    "name": "sith brands",
+    "value": "sith@brands"
+  },
+  {
+    "name": "sitrox brands",
+    "value": "sitrox@brands"
+  },
+  {
+    "name": "sketch brands",
+    "value": "sketch@brands"
+  },
+  {
+    "name": "skyatlas brands",
+    "value": "skyatlas@brands"
+  },
+  {
+    "name": "skype brands",
+    "value": "skype@brands"
+  },
+  {
+    "name": "slack brands",
+    "value": "slack@brands"
+  },
+  {
+    "name": "slideshare brands",
+    "value": "slideshare@brands"
+  },
+  {
+    "name": "snapchat brands",
+    "value": "snapchat@brands"
+  },
+  {
+    "name": "soundcloud brands",
+    "value": "soundcloud@brands"
+  },
+  {
+    "name": "sourcetree brands",
+    "value": "sourcetree@brands"
+  },
+  {
+    "name": "space-awesome brands",
+    "value": "space-awesome@brands"
+  },
+  {
+    "name": "speakap brands",
+    "value": "speakap@brands"
+  },
+  {
+    "name": "speaker-deck brands",
+    "value": "speaker-deck@brands"
+  },
+  {
+    "name": "spotify brands",
+    "value": "spotify@brands"
+  },
+  {
+    "name": "square-behance brands",
+    "value": "square-behance@brands"
+  },
+  {
+    "name": "square-dribbble brands",
+    "value": "square-dribbble@brands"
+  },
+  {
+    "name": "square-facebook brands",
+    "value": "square-facebook@brands"
+  },
+  {
+    "name": "square-font-awesome brands",
+    "value": "square-font-awesome@brands"
+  },
+  {
+    "name": "square-font-awesome-stroke brands",
+    "value": "square-font-awesome-stroke@brands"
+  },
+  {
+    "name": "square-git brands",
+    "value": "square-git@brands"
+  },
+  {
+    "name": "square-github brands",
+    "value": "square-github@brands"
+  },
+  {
+    "name": "square-gitlab brands",
+    "value": "square-gitlab@brands"
+  },
+  {
+    "name": "square-google-plus brands",
+    "value": "square-google-plus@brands"
+  },
+  {
+    "name": "square-hacker-news brands",
+    "value": "square-hacker-news@brands"
+  },
+  {
+    "name": "square-instagram brands",
+    "value": "square-instagram@brands"
+  },
+  {
+    "name": "square-js brands",
+    "value": "square-js@brands"
+  },
+  {
+    "name": "square-lastfm brands",
+    "value": "square-lastfm@brands"
+  },
+  {
+    "name": "square-odnoklassniki brands",
+    "value": "square-odnoklassniki@brands"
+  },
+  {
+    "name": "square-pied-piper brands",
+    "value": "square-pied-piper@brands"
+  },
+  {
+    "name": "square-pinterest brands",
+    "value": "square-pinterest@brands"
+  },
+  {
+    "name": "square-reddit brands",
+    "value": "square-reddit@brands"
+  },
+  {
+    "name": "square-snapchat brands",
+    "value": "square-snapchat@brands"
+  },
+  {
+    "name": "square-steam brands",
+    "value": "square-steam@brands"
+  },
+  {
+    "name": "square-tumblr brands",
+    "value": "square-tumblr@brands"
+  },
+  {
+    "name": "square-twitter brands",
+    "value": "square-twitter@brands"
+  },
+  {
+    "name": "square-viadeo brands",
+    "value": "square-viadeo@brands"
+  },
+  {
+    "name": "square-vimeo brands",
+    "value": "square-vimeo@brands"
+  },
+  {
+    "name": "square-whatsapp brands",
+    "value": "square-whatsapp@brands"
+  },
+  {
+    "name": "square-xing brands",
+    "value": "square-xing@brands"
+  },
+  {
+    "name": "square-youtube brands",
+    "value": "square-youtube@brands"
+  },
+  {
+    "name": "squarespace brands",
+    "value": "squarespace@brands"
+  },
+  {
+    "name": "stack-exchange brands",
+    "value": "stack-exchange@brands"
+  },
+  {
+    "name": "stack-overflow brands",
+    "value": "stack-overflow@brands"
+  },
+  {
+    "name": "stackpath brands",
+    "value": "stackpath@brands"
+  },
+  {
+    "name": "staylinked brands",
+    "value": "staylinked@brands"
+  },
+  {
+    "name": "steam brands",
+    "value": "steam@brands"
+  },
+  {
+    "name": "steam-symbol brands",
+    "value": "steam-symbol@brands"
+  },
+  {
+    "name": "sticker-mule brands",
+    "value": "sticker-mule@brands"
+  },
+  {
+    "name": "strava brands",
+    "value": "strava@brands"
+  },
+  {
+    "name": "stripe brands",
+    "value": "stripe@brands"
+  },
+  {
+    "name": "stripe-s brands",
+    "value": "stripe-s@brands"
+  },
+  {
+    "name": "studiovinari brands",
+    "value": "studiovinari@brands"
+  },
+  {
+    "name": "stumbleupon brands",
+    "value": "stumbleupon@brands"
+  },
+  {
+    "name": "stumbleupon-circle brands",
+    "value": "stumbleupon-circle@brands"
+  },
+  {
+    "name": "superpowers brands",
+    "value": "superpowers@brands"
+  },
+  {
+    "name": "supple brands",
+    "value": "supple@brands"
+  },
+  {
+    "name": "suse brands",
+    "value": "suse@brands"
+  },
+  {
+    "name": "swift brands",
+    "value": "swift@brands"
+  },
+  {
+    "name": "symfony brands",
+    "value": "symfony@brands"
+  },
+  {
+    "name": "teamspeak brands",
+    "value": "teamspeak@brands"
+  },
+  {
+    "name": "telegram brands",
+    "value": "telegram@brands"
+  },
+  {
+    "name": "tencent-weibo brands",
+    "value": "tencent-weibo@brands"
+  },
+  {
+    "name": "the-red-yeti brands",
+    "value": "the-red-yeti@brands"
+  },
+  {
+    "name": "themeco brands",
+    "value": "themeco@brands"
+  },
+  {
+    "name": "themeisle brands",
+    "value": "themeisle@brands"
+  },
+  {
+    "name": "think-peaks brands",
+    "value": "think-peaks@brands"
+  },
+  {
+    "name": "tiktok brands",
+    "value": "tiktok@brands"
+  },
+  {
+    "name": "trade-federation brands",
+    "value": "trade-federation@brands"
+  },
+  {
+    "name": "trello brands",
+    "value": "trello@brands"
+  },
+  {
+    "name": "tumblr brands",
+    "value": "tumblr@brands"
+  },
+  {
+    "name": "twitch brands",
+    "value": "twitch@brands"
+  },
+  {
+    "name": "twitter brands",
+    "value": "twitter@brands"
+  },
+  {
+    "name": "typo3 brands",
+    "value": "typo3@brands"
+  },
+  {
+    "name": "uber brands",
+    "value": "uber@brands"
+  },
+  {
+    "name": "ubuntu brands",
+    "value": "ubuntu@brands"
+  },
+  {
+    "name": "uikit brands",
+    "value": "uikit@brands"
+  },
+  {
+    "name": "umbraco brands",
+    "value": "umbraco@brands"
+  },
+  {
+    "name": "uncharted brands",
+    "value": "uncharted@brands"
+  },
+  {
+    "name": "uniregistry brands",
+    "value": "uniregistry@brands"
+  },
+  {
+    "name": "unity brands",
+    "value": "unity@brands"
+  },
+  {
+    "name": "unsplash brands",
+    "value": "unsplash@brands"
+  },
+  {
+    "name": "untappd brands",
+    "value": "untappd@brands"
+  },
+  {
+    "name": "ups brands",
+    "value": "ups@brands"
+  },
+  {
+    "name": "usb brands",
+    "value": "usb@brands"
+  },
+  {
+    "name": "usps brands",
+    "value": "usps@brands"
+  },
+  {
+    "name": "ussunnah brands",
+    "value": "ussunnah@brands"
+  },
+  {
+    "name": "vaadin brands",
+    "value": "vaadin@brands"
+  },
+  {
+    "name": "viacoin brands",
+    "value": "viacoin@brands"
+  },
+  {
+    "name": "viadeo brands",
+    "value": "viadeo@brands"
+  },
+  {
+    "name": "viber brands",
+    "value": "viber@brands"
+  },
+  {
+    "name": "vimeo brands",
+    "value": "vimeo@brands"
+  },
+  {
+    "name": "vimeo-v brands",
+    "value": "vimeo-v@brands"
+  },
+  {
+    "name": "vine brands",
+    "value": "vine@brands"
+  },
+  {
+    "name": "vk brands",
+    "value": "vk@brands"
+  },
+  {
+    "name": "vnv brands",
+    "value": "vnv@brands"
+  },
+  {
+    "name": "vuejs brands",
+    "value": "vuejs@brands"
+  },
+  {
+    "name": "watchman-monitoring brands",
+    "value": "watchman-monitoring@brands"
+  },
+  {
+    "name": "waze brands",
+    "value": "waze@brands"
+  },
+  {
+    "name": "weebly brands",
+    "value": "weebly@brands"
+  },
+  {
+    "name": "weibo brands",
+    "value": "weibo@brands"
+  },
+  {
+    "name": "weixin brands",
+    "value": "weixin@brands"
+  },
+  {
+    "name": "whatsapp brands",
+    "value": "whatsapp@brands"
+  },
+  {
+    "name": "whmcs brands",
+    "value": "whmcs@brands"
+  },
+  {
+    "name": "wikipedia-w brands",
+    "value": "wikipedia-w@brands"
+  },
+  {
+    "name": "windows brands",
+    "value": "windows@brands"
+  },
+  {
+    "name": "wirsindhandwerk brands",
+    "value": "wirsindhandwerk@brands"
+  },
+  {
+    "name": "wix brands",
+    "value": "wix@brands"
+  },
+  {
+    "name": "wizards-of-the-coast brands",
+    "value": "wizards-of-the-coast@brands"
+  },
+  {
+    "name": "wodu brands",
+    "value": "wodu@brands"
+  },
+  {
+    "name": "wolf-pack-battalion brands",
+    "value": "wolf-pack-battalion@brands"
+  },
+  {
+    "name": "wordpress brands",
+    "value": "wordpress@brands"
+  },
+  {
+    "name": "wordpress-simple brands",
+    "value": "wordpress-simple@brands"
+  },
+  {
+    "name": "wpbeginner brands",
+    "value": "wpbeginner@brands"
+  },
+  {
+    "name": "wpexplorer brands",
+    "value": "wpexplorer@brands"
+  },
+  {
+    "name": "wpforms brands",
+    "value": "wpforms@brands"
+  },
+  {
+    "name": "wpressr brands",
+    "value": "wpressr@brands"
+  },
+  {
+    "name": "xbox brands",
+    "value": "xbox@brands"
+  },
+  {
+    "name": "xing brands",
+    "value": "xing@brands"
+  },
+  {
+    "name": "y-combinator brands",
+    "value": "y-combinator@brands"
+  },
+  {
+    "name": "yahoo brands",
+    "value": "yahoo@brands"
+  },
+  {
+    "name": "yammer brands",
+    "value": "yammer@brands"
+  },
+  {
+    "name": "yandex brands",
+    "value": "yandex@brands"
+  },
+  {
+    "name": "yandex-international brands",
+    "value": "yandex-international@brands"
+  },
+  {
+    "name": "yarn brands",
+    "value": "yarn@brands"
+  },
+  {
+    "name": "yelp brands",
+    "value": "yelp@brands"
+  },
+  {
+    "name": "yoast brands",
+    "value": "yoast@brands"
+  },
+  {
+    "name": "youtube brands",
+    "value": "youtube@brands"
+  },
+  {
+    "name": "zhihu brands",
+    "value": "zhihu@brands"
+  }
+]
