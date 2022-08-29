@@ -16,6 +16,10 @@ for path in paths:
     localPath = "fontawesome-6.1.2-web/svgs/" + path
     onlyfiles = [f for f in listdir(localPath) if isfile(join(localPath, f))]
     for file in onlyfiles:
+        svg=""
+        with open(localPath+ "/" + file) as f:
+            svg = f.readlines()
+        print(svg)
         name = path + "/" + file.split(".")[0]
         value = github + "/" + localPath + "/" + file
         data.append({
