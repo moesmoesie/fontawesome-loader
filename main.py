@@ -18,10 +18,10 @@ for path in paths:
     for file in onlyfiles:
         svg=""
         with open(localPath+ "/" + file) as f:
-            svg = f.readlines()
+            svg = f.read()
         print(svg)
         name = path + "/" + file.split(".")[0]
-        value = github + "/" + localPath + "/" + file
+        value = svg
         data.append({
             'name' : name,
             'value': value
