@@ -2,7 +2,7 @@ from os import listdir
 from os.path import isfile, join
 import json
 
-data = {}
+data = []
 
 paths = [
     "brands", 
@@ -18,7 +18,10 @@ for path in paths:
     for file in onlyfiles:
         name = path + "/" + file.split(".")[0]
         value = github + "/" + localPath + "/" + file
-        data[name] = value
+        data.append({
+            'name' : name,
+            'value': value
+        })
 
 with open("fontawesome.json", "w") as outfile:
     json.dump(data, outfile)
